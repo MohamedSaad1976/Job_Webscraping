@@ -1,0 +1,687 @@
+{
+  "page": 50,
+  "page_count": 15838,
+  "items_per_page": 20,
+  "took": 26,
+  "timed_out": false,
+  "total": 316746,
+  "results": [
+    {
+      "contents": "<p><strong>Automationservice engineer - Egypt, Cairo</strong><br><br>Siemens DigitalIndustries is a leading innovator in automation and digitalization. Our missionis to support customers in leveraging growth, profit opportunities andecological footprint in the discrete and process industries. Our DigitalEnterprise portfolio integrates virtual and real worlds - with a uniqueend-to-end portfolio and Digital Twins across the entire value chain. Itfocuses on the needs of specific verticals. We continually expand our DigitalEnterprise portfolio to include ground breaking technologies and offerindustry-specific end-to-end solutions for companies of all sizes.<br><br>Join our Digital Industries as the Automationservice engineer and help us re-imagine the world by finding solutions andmaking the world a smarter place for tomorrow.<br><br><strong>Your Role -International, Challenging And Future-Oriented!</strong><br><br>We currently have an opportunity for a Field Service EngineerDue to developing markets and internal promotions the Customer Servicesdivision of Siemens Digital Industries, a world leading supplier of innovativeand environmentally friendly products and solutions for industrial customershas an exciting opportunity for an experienced Field Service Engineer toprovide services for our extensive product range which includes industrial automationand drives.<br><br><ul><li>Carry out day to daily activitiesincluding field service engineering, technical support, sales assistance andtraining.</li><li>Troubleshooting, breakdown repairs,routine maintenance, </li><li>Installation/commissioning, upgradesof Siemens Drives and Automation Products.</li><li>Conducting training in house or onsite.</li><li>Submitting all the required reportsand time sheets.</li></ul><br><strong>Your QualificationsAnd Skills - Digital And Solid!</strong><br><br><ul><li>Electrical/Electronic Engineeringdegree with relevant experience, and a minimum of 2 - 6 years' experience inthe Industrial Automation Industry and drives. </li><li>Proven experience in Automationsystems.</li><li>Experience with commissioning /troubleshooting Siemens variable speed drives (VSDs) is an advantage.</li><li>Ability and willingness for frequenttravel local, interstate and overseas where required, including remote sites.</li></ul><br><strong>What else do you need to know?</strong><br><br>As a world leader in developing and producing the most advancedengineering technologies, we improve lives and further human achievementsworldwide, while also protecting the climate - all thanks to our employees.Working with us, you have the foundation to develop personally andprofessionally. We give you the chance to do something significant, thatbenefits society and human progress. We give you the chance to create adifference.<br><br>Diversity at Siemens is our source of creativity and innovation.Having different types of talent and experiences makes us more ambitious andbetter prepared to respond successfully to the demands of the Society.Therefore, we value the candidates that reflect the Diversity that we enjoy inour Company. Please find more information at www.siemens.com<br><br>At Siemens we are always challengingourselves to build a better future. We need the most innovative and diverseDigital Minds to develop tomorrow's reality. Find out more about the Digitalworld of Siemens here: www.siemens.com/careers/digitalminds<br><br>We are looking forward to receiving your online application. <br><br>Please note: Only complete applications can be considered in theselection process.<br><br><b>Organization:</b> Digital Industries<br><br><b>Company:</b> Siemens Industrial LLC<br><br><b>Experience Level:</b> Experienced Professional<br><br><b>Full / Part time:</b> Full-time</p>",
+      "name": "Automation Service Engineer - Cairo, Egypt",
+      "type": "external",
+      "publication_date": "2023-03-07T23:45:31Z",
+      "short_name": "automation-service-engineer-cairo-egypt",
+      "model_type": "jobs",
+      "id": 10851219,
+      "locations": [
+        {
+          "name": "Cairo, Egypt"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Science and Engineering"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Senior Level",
+          "short_name": "senior"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/siemens/automation-service-engineer-cairo-egypt"
+      },
+      "company": {
+        "id": 11913,
+        "short_name": "siemens",
+        "name": "Siemens"
+      }
+    },
+    {
+      "contents": "<p>At Siemens, we are always challenging ourselves to build a better future. We need the most innovative and diverse Digital Minds to develop tomorrow's reality. Find out more about the Digital world of Siemens here: [1] www.siemens.com/careers/digitalminds<br> Siemens EDA is part of Siemens Digital Industries Software, a Siemens Group company and world leader in the global digitalization of companies. Siemens EDA, a world leader of Electronic Design Automation (EDA), develops and markets software products and hardware solutions (emulators) covering the entire design &amp; verification flow.  Siemens EDA counts among its customers the majority of the world's Top 50 in the fields of Semiconductors, Computing, Consumer, Automotive, Telecommunications and the Defense and Space sector. <br>At the Siemens EDA Fremont site, we develop disruptive semiconductor chip design CAD software, including the Analog Fast SPICE\u2122 (AFS), the world's fastest nanometer accurate circuit verification platform. AFS is used by over 150 semiconductor companies worldwide for their toughest circuit verification challenges while designing high-speed I/Os, PLLs, ADCs/DACs, CMOS image sensors, RFICs, and embedded memory.<br><br>This position will be part of the AFS R&amp;D team, focused on circuit simulation. As a key member of a highly proficient, productive, and motivated R&amp;D team, developing industry's leading circuit simulator, using cutting edge software development techniques, you will be offered:<br><br><ul><li>Technical challenges to solve toughest nanometer scale circuit verification problems for the leading semiconductor companies in the world.</li><li>A motivating, stimulating, and rewarding work environment</li><li>Excellent training and growth opportunities throughout your career</li><li>Attractive compensation and benefits</li></ul><br>As a member of AFS R&amp;D team you will participate in the design and implementation of efficient algorithms using state of the art software engineering processes and development tools, with a strong emphasis on software quality; thus, adding to your industry level experience in solving tough computational complexity problems while participating in entire software development lifecycle. We are looking for a self-motivated and inspiring team player with outstanding problem-solving skills to maintain and grow the technical dominance of the AFS product.<br> Responsibilities: <ul><li>Develop new and compatibility features for the core circuit simulator.</li><li>Participate in the specification, architecture, design, and development of features</li><li>Enhance core circuit simulator, e.g., performance, accuracy, capacity, convergence.</li><li>Maintain and enhance compatibility with other simulators.</li><li>Profile and identify bottlenecks in performance of various analyses for very large circuits.</li><li>Improve numerical algorithms used in the core engine.</li><li>Debug difficult testcases with accuracy, performance, capacity, or functional issues.</li><li>Extend and maintain the capabilities of the AFS circuit simulator.</li><li>Be a force for improving development processes and product quality.</li><li>Work effectively with other globally distributed engineering teams and the Product Validation team</li></ul> Desirable: <ul><li>Understanding of the internal workings of a circuit simulator</li><li>Knowledge of Verilog-A and modeling in Verilog-A.</li><li>EDA industry level work experience</li></ul> Education and Experience: <ul><li>Minimum 5 years of proven strong background in developing efficient, high quality software for engineering applications; preferably using numerical methods and sparse matrix techniques</li><li>Strong background in numerical methods and sparse matrix techniques.</li><li>Outstanding programming skills in C and C++, preferably on Linux platform.</li><li>Proficiency in memory optimization, high-performance data structures and algorithms.</li><li>Advanced multithreading programming experience.</li><li>Working knowledge of analog electrical circuits.</li><li>Solid background in object-oriented design and software engineering processes.</li><li>Self-motivated individual with excellent problem-solving skills.</li><li>Strong interpersonal and excellent oral and written communication skills.</li><li>Highly motivated to work in globally distributed engineering environment</li></ul><br>The salary range forthis position is $95,800 to$172,400 and this role is eligible to earn another 5 - 8% in variable pay.Siemens offers a variety of health and wellness benefits to employees. Detailsregarding our benefits can be found here: www.benefitsquickstart.com. In addition, thisposition is eligible for time off in accordance with Company policies,including paid sick leave, paid parental leave, PTO (for non-exempt employees)or non-accrued flexible vacation (for exempt employees).<br><br>If you reside in the BayArea the salary range for this position is $118,500 to $189,600 and this roleis eligible to earn another 5-8% in variable pay. Siemens offers a variety ofhealth and wellness benefits to employees. Details regarding our benefits canbe found here: www.benefitsquickstart.com. In addition, this position is eligible fortime off in accordance with Company policies, including paid sick leave, paidparental leave, PTO (for non-exempt employees) or non-accrued flexible vacation(for exempt employees). <br><br>For Canada Compensationis based on experience and market values. You will be asked what yourexpectations are. There are multiple perks beyond the basic health insurancepackage, including RRSP matching, share purchase matching, company paiddiversity days, and an extensive employee assistance program.<br><br>#LI-PLM<br>#LI-KM1<br><br>#LI- Remote<br><br>#DISW<br><br><b>Organization:</b> Digital Industries<br><br><b>Company:</b> Siemens Industry Software Inc.<br><br><b>Experience Level:</b> Experienced Professional<br><br><b>Full / Part time:</b> Full-time<br><br><b>Equal Employment Opportunity Statement</b><br>Siemens is an Equal Opportunity and Affirmative Action Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to their race, color, creed, religion, national origin, citizenship status, ancestry, sex, age, physical or mental disability unrelated to ability, marital status, family responsibilities, pregnancy, genetic information, sexual orientation, gender expression, gender identity, transgender, sex stereotyping, order of protection status, protected veteran or military status, or an unfavorable discharge from military service, and other categories protected by federal, state or local law.<br><br><b>EEO is the Law</b><br>Applicants and employees are protected under Federal law from discrimination. To learn more, Click here.<br><br><b>Pay Transparency Non-Discrimination Provision</b><br>Siemens follows Executive Order 11246, including the Pay Transparency Nondiscrimination Provision. To learn more, Click here.<br><br><b>California Privacy Notice</b><br>California residents have the right to receive additional notices about their personal information. To learn more, click here.</p>",
+      "name": "Software Developer- Circuit Simulation EDA- Remote",
+      "type": "external",
+      "publication_date": "2023-03-16T23:46:51Z",
+      "short_name": "software-developer-circuit-simulation-eda-remote-5017a3",
+      "model_type": "jobs",
+      "id": 8617771,
+      "locations": [
+        {
+          "name": "Cartersville, GA"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Software Engineering"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Senior Level",
+          "short_name": "senior"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/siemens/software-developer-circuit-simulation-eda-remote-5017a3"
+      },
+      "company": {
+        "id": 11913,
+        "short_name": "siemens",
+        "name": "Siemens"
+      }
+    },
+    {
+      "contents": "<p><strong>Rendre la fabrication plus intelligente</strong><br><br>L'industrie manufacturi\u00e8re subit une transformation importante, et nous voulons en assurer la r\u00e9ussite pour l'avenir. Pour ce faire, nous avons besoin de penseurs avant-gardistes qui ont une vision globale, ainsi que d'esprits intelligents \u00e0 la recherche de r\u00e9ponses. Aidez-nous \u00e0 pr\u00e9parer l'industrie manufacturi\u00e8re pour l'avenir de l'automatisation et de la num\u00e9risation.<br><br><strong>Pourquoi vous aimerez travailler pour Siemens?</strong><br><br><ul><li>R\u00e9solution de probl\u00e8mes parmi les plus importants \u00e0 l'\u00e9chelle mondiale : prenez part \u00e0 des projets passionnants et novateurs</li><li>Environnement mobilisateur et stimulant qui \u00e9volue rapidement et comprend une technologie de fine pointe</li><li>Occasions de faire progresser votre carri\u00e8re et de b\u00e9n\u00e9ficier de programmes de mentorat \u00e0 l'\u00e9chelle locale et mondiale</li><li>R\u00e9mun\u00e9ration globale concurrentielle</li><li>Participation aux b\u00e9n\u00e9fices possible</li><li>Contribution \u00e0 nos initiatives de responsabilit\u00e9 sociale centr\u00e9es sur l'acc\u00e8s \u00e0 l'\u00e9ducation, l'acc\u00e8s \u00e0 la technologie et le soutien aux communaut\u00e9s, tout en ayant une incidence positive sur la collectivit\u00e9</li><li>Participation \u00e0 nos c\u00e9l\u00e9brations ainsi qu'\u00e0 nos \u00e9v\u00e9nements sociaux et professionnels en dehors des lieux de travail</li><li>Occasions de partager vos id\u00e9es novatrices et d'\u00eatre r\u00e9mun\u00e9r\u00e9 pour celles-ci!</li><li>Avantages et r\u00e9ductions pour les employ\u00e9s</li><li>Accent mis sur la diversit\u00e9 et l'inclusivit\u00e9</li></ul><br>Siemens est fi\u00e8re d'avoir \u00e9t\u00e9 class\u00e9e huit fois parmi les 100 meilleurs employeurs au Canada ainsi que d'avoir figur\u00e9 parmi les meilleurs employeurs pour les jeunes Canadiens en 2023 et parmi les meilleurs employeurs du Grand Toronto en 2022.<br><br><strong>En quoi consistera votre r\u00f4le?</strong><br><br><ul><li>Lire et interpr\u00e9ter les dessins techniques \u00e0 partir des bons de commande ou d'instructions verbales.</li><li>Op\u00e9rer les machines-outils pour fabriquer des pi\u00e8ces, de m\u00eame que de l'outillage \u00e0 commande num\u00e9rique par ordinateur (CNC).</li><li>Op\u00e9rer des \u00e9quipements de haute technologie \u00e0 commandes num\u00e9riques et conventionnel pour la production de barres omnibus et de m\u00e9tal en feuille destin\u00e9 \u00e0 \u00eatre assembl\u00e9 \u00e0 l'int\u00e9rieur de panneaux \u00e9lectriques:</li><ul><li>Poin\u00e7onneuse automatique \u00e0 commande num\u00e9rique;</li><li>Syst\u00e8me d'entreposage automatis\u00e9;</li><li>R\u00e9glage et mise en production de pi\u00e8ces de m\u00e9tal en feuille.</li></ul></ul><br><strong>QUART DE TRAVAIL : DE 16h00 \u00c0 MINUIT </strong><br><br><strong>Ce qu'il vous faudra pour r\u00e9ussir</strong><br><br><ul><li>DEP en techniques d'usinage ou ferblanterie/t\u00f4lerie, essentiel.</li><li>ASP en usinage sur machines-outils \u00e0 commande num\u00e9rique, un atout.</li><li>Exp\u00e9rience avec l'utilisation d'outils en usine.</li><li>Bonne connaissance de la langue fran\u00e7aise autant \u00e0 l'oral qu'\u00e0 l'\u00e9crit.</li><li>Sens m\u00e9thodique, rapidit\u00e9 d'ex\u00e9cution et souci de la qualit\u00e9.</li><li>Avoir un esprit de collaboration.</li></ul><br><strong>\u00c0 propos de nous</strong><br><br><strong>Nous partageons nos id\u00e9es et soutenons les personnes derri\u00e8re celles-ci</strong><br><br>Siemens Canada est une entreprise technologique qui se concentre sur le secteur industriel, les infrastructures, les transports et les soins de sant\u00e9. Qu'il s'agisse d'usines plus \u00e9coefficaces, de cha\u00eenes d'approvisionnement r\u00e9silientes et de b\u00e2timents et de r\u00e9seaux plus intelligents, ou de transports plus propres et plus confortables, en passant par les soins de sant\u00e9 perfectionn\u00e9s, l'entreprise cr\u00e9e une technologie avec un objectif, cr\u00e9ant une r\u00e9elle valeur ajout\u00e9e pour les clients depuis 1912. En jumelant le monde r\u00e9el et le monde num\u00e9rique, Siemens permet \u00e0 ses clients de transformer leurs secteurs et leurs march\u00e9s, ainsi que le quotidien de milliards de personnes. Siemens d\u00e9tient \u00e9galement une participation majoritaire dans la soci\u00e9t\u00e9 cot\u00e9e en bourse Siemens Healthineers, l'un des principaux fournisseurs mondiaux de technologies m\u00e9dicales qui fa\u00e7onnent l'avenir des soins de sant\u00e9. En outre, Siemens d\u00e9tient une participation minoritaire dans Siemens \u00c9nergie, un leader mondial en transport et en production d'\u00e9lectricit\u00e9.<br><br>Ensemble, nous changeons les choses. En 2022, nos retomb\u00e9es totales sur les collectivit\u00e9s se chiffraient \u00e0 plus de 335 000 $, y compris nos contributions \u00e0 des \u0153uvres de charit\u00e9, qui soutiennent 38 organismes sans but lucratif. De plus, les employ\u00e9s de Siemens ont plant\u00e9 700 arbres dans nos collectivit\u00e9s locales. Siemens Canada compte 2900 employ\u00e9s d'un oc\u00e9an \u00e0 l'autre et 25 bureaux et usines de production au Canada. Joignez-vous \u00e0 notre \u00e9quipe d'environ 293 000 professionnels talentueux dans plus de 190 pays/r\u00e9gions et aidez-nous \u00e0 relever des d\u00e9fis contemporains au quotidien afin de b\u00e2tir un avenir durable ensemble. Alors, qu'attendez-vous? Entamez la prochaine \u00e9tape de votre carri\u00e8re avec nous.<br><br>Pour en apprendre davantage sur Siemens Canada, veuillez visiter notre site Web au www.siemens.ca.<br><br>Toutes les demandes nous int\u00e9ressent; toutefois, nous communiquerons seulement avec les candidat(e)s s\u00e9lectionn\u00e9(e)s.<br><br><b>Secteur:</b> Smart Infrastructure<br><br><b>Entreprise:</b> Siemens Canada Limited<br><br><b>Niveau d'exp\u00e9rience:</b> D\u00e9butant<br><br><b>Plein temps / Temps partiel:</b> Temps plein<br><br>Siemens is committed to creating a diverse environment and is proud to be an equal opportunity employer. Upon request, Siemens Canada will provide reasonable accommodation for disabilities to support participation of candidates in all aspects of the recruitment process. All qualified applicants will receive consideration for employment.<br><br><b>By submitting personal information to Siemens Canada Limited or its affiliates, service providers and agents, you consent to our collection, use and disclosure of such information for the purposes described in our Privacy Code available at www.siemens.ca.</b><br><br>Siemens s'engage \u00e0 cr\u00e9er un environnement diversifi\u00e9 et est fi\u00e8re d'\u00eatre un employeur souscrivant au principe de l'\u00e9galit\u00e9 d'acc\u00e8s \u00e0 l'emploi. Sur demande, Siemens Canada prendra des mesures d'accommodement raisonnables pour les personnes handicap\u00e9es, dans le but de soutenir la participation des candidats dans tous les aspects du processus de recrutement. Tous les candidats qualifi\u00e9s seront pris en consid\u00e9ration pour ce poste.<br><br><b>En transmettant des renseignements personnels \u00e0 Siemens Canada limit\u00e9e ou \u00e0 ses soci\u00e9t\u00e9s affili\u00e9es, \u00e0 ses fournisseurs de services ou \u00e0 ses agents, vous nous autorisez \u00e0 recueillir, \u00e0 utiliser et \u00e0 divulguer ces renseignements aux fins pr\u00e9vues dans notre Code de protection de la confidentialit\u00e9, que vous pouvez consulter au www.siemens.ca.</b></p>",
+      "name": "Op\u00e9rateur contr\u00f4le num\u00e9rique et presse-plieuse - quart de soir",
+      "type": "external",
+      "publication_date": "2023-03-21T00:00:54Z",
+      "short_name": "operateur-controle-numerique-et-presseplieuse-quart-de-soir",
+      "model_type": "jobs",
+      "id": 10893228,
+      "locations": [
+        {
+          "name": "Drummondville, Canada"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Data and Analytics"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Mid Level",
+          "short_name": "mid"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/siemens/operateur-controle-numerique-et-presseplieuse-quart-de-soir"
+      },
+      "company": {
+        "id": 11913,
+        "short_name": "siemens",
+        "name": "Siemens"
+      }
+    },
+    {
+      "contents": "<p><strong>Change the future with us.</strong><br><br>We are passionate about innovations that mean real progress. We are excited about technologies that still need to be developed. What about you? Do you want to use your curiosity, passion, and creativity to make the lives of millions of people easier and better? Join us as a graduate -either by beginning your career with us or through a co-op placement. Whichever path you take, we're looking forward to seeing your perspective.<br><br><strong>Why you'll love working for Siemens!</strong><br><br><ul><li>A tailored training program, 1-1 coaching, mentorships, peer network and alumni community dedicated for Dual Education students</li><li>Opportunities to work on Canada's most significant problems such as sustainability and digitalization</li><li>Engaging, challenging, and multidisciplinary environment</li><li>Opportunities to advance your career after SCETA on a local and global scale, all within the Siemens family</li></ul><br>Siemens is proud to be an eight-time award winner of Canada's Top 100 Employers, Canada's Greenest Employers 2022, Canada's Top Employers for Young People 2022 and Greater Toronto's Top Employers 2022.<br><br><strong>What will you do?</strong><br><br><strong>Education and Talent Work-Integrated Learning Program (5-month term starting in May 2023)</strong><br><br>Siemens Canada is looking to bring highly qualified and enthusiastic personnel on board through the five-month Siemens Certified Education and Talent Academy (SCETA) term. This unique opportunity lets you experience the German Work Integrated Learning (WIL) program in Canada. This German WIL approach is respected globally for bringing highly effective employees into Siemens and is at the heart of German industrial strength.<br><br>This SCETA WIL term is designed to accelerate your skills so you will have an immediate professional impact. You will be immersed in both specific training events and practical experience with multiple Siemens business units. As part of Siemens Canada, you will contribute to projects that address the most critical challenges of our human history, including climate change. <br><br>The objective of this SCETA term is to have you join a Siemens unit at the end of the five-month term should everything align, opening the door to all Siemens Canada. Furthermore, once established, the global career network of Siemens (present in 190 countries) is available to you. During this five-month term, you will also be paid a monthly stipend while you are trained.<br><br>Some of the available roles:<br><br><ul><li>Service and construction field technician (hands-on field work)</li><li>Installation specialist (hands-on field work)</li><li>Project management (planning, coordinating, and finance)</li><li>Project design and quotation (collaborating with consulting firms)</li><li>Customer support technician (addressing direct customer issues)</li><li>Technical writing/Technical Communication</li><li>Sales/Customer facing</li></ul><br><strong>This SCETA program is directed at universities and college programs, including:</strong><br><br><ul><li>Technician</li><li>HVAC</li><li>Security System</li><li>Fire Protection System</li><li>IoT</li><li>e-Mobility</li><li>Electrical/Electronics technologies</li><li>Instrumentation technologies</li><li>Electrical Engineering</li><li>Mechanical Engineering</li><li>Mechatronics Engineering</li><li>Software Engineering</li><li>Commerce, Business Management</li></ul><br><strong>NOTES:</strong><br><br><ul><li><strong>Duration: May 1/23 to Sept 29/23</strong></li><li>One-month SCETA on-line orientation in May. Learn about all things Siemens and business acumen training.</li><li>Four months with a business unit for training and practical experience, either online or onsite (role dependent)</li></ul><br><strong>What will you need to succeed?</strong><br><br><ul><li><strong>You need to have completed classes by April/23 and be available to work the summer</strong></li><li>Summer co-ops are accepted but not required (graduate either April/22 or September/22)</li><li>3.0 overall GPA </li><li>Willing to relocate and travel across Canada as required by program</li><li>Legally authorized to work in Canada at the time of application</li></ul><br><strong>Please upload a copy of your transcript along with your resume in the application.</strong><br> <br><strong>About us.</strong><br><br><strong>We share our ideas and champion the people behind them.</strong><br><br>For over 110 years, Siemens Canada has stood for engineering excellence, innovation, quality and reliability. Active across Canada, the company focuses on intelligent infrastructure for buildings and distributed energy systems and on automation and digitalization in the process and manufacturing industries. Siemens brings together the digital and physical worlds to benefit customers and society. Through Mobility, a leading supplier of intelligent mobility solutions for rail and road transport, Siemens is helping to shape Canada's passenger rail services. Via its majority stake in the publicly listed company Siemens Healthineers, Siemens is also a leading supplier of medical technology and digital health services. In addition, Siemens holds a minority stake in Siemens Energy, a global leader in the transmission and generation of electrical power.<br><br>Making a difference together we raised $385,000 towards charitable contributions, support over 38 non-profit organizations and planted 660 trees in our local communities. Siemens Canada has 2,500 employees from coast-to-coast and 24 office and production facilities across Canada. Join our team of approximately 293,000 talented professionals in more than 190 countries/regions and help us tackle the most exciting challenges to build a successful future together. So, what are you waiting for? Take your next career step with us.<br><br>To learn more about Siemens Canada, visit our website at www.siemens.ca<br><br>While we appreciate all applications we receive, we advise that only candidates under consideration will be contacted.<br><br>Siemens is committed to creating a diverse environment and is proud to be an equal opportunity employer. Upon request, Siemens Canada will provide reasonable accommodation for disabilities to support participation of candidates in all aspects of the recruitment process. All qualified applicants will receive consideration for employment.<br><br><strong>By submitting personal information to Siemens Canada Limited or its affiliates, service providers and agents, you consent to our collection, use and disclosure of such information for the purposes described in our Privacy Code available at </strong>www.siemens.ca<strong>.</strong><br><br><b>Organization:</b> Smart Infrastructure<br><br><b>Company:</b> Siemens Canada Limited<br><br><b>Experience Level:</b> Student (Not Yet Graduated)<br><br><b>Full / Part time:</b> Full-time<br><br>Siemens is committed to creating a diverse environment and is proud to be an equal opportunity employer. Upon request, Siemens Canada will provide reasonable accommodation for disabilities to support participation of candidates in all aspects of the recruitment process. All qualified applicants will receive consideration for employment.<br><br><b>By submitting personal information to Siemens Canada Limited or its affiliates, service providers and agents, you consent to our collection, use and disclosure of such information for the purposes described in our Privacy Code available at www.siemens.ca.</b><br><br>Siemens s'engage \u00e0 cr\u00e9er un environnement diversifi\u00e9 et est fi\u00e8re d'\u00eatre un employeur souscrivant au principe de l'\u00e9galit\u00e9 d'acc\u00e8s \u00e0 l'emploi. Sur demande, Siemens Canada prendra des mesures d'accommodement raisonnables pour les personnes handicap\u00e9es, dans le but de soutenir la participation des candidats dans tous les aspects du processus de recrutement. Tous les candidats qualifi\u00e9s seront pris en consid\u00e9ration pour ce poste.<br><br><b>En transmettant des renseignements personnels \u00e0 Siemens Canada limit\u00e9e ou \u00e0 ses soci\u00e9t\u00e9s affili\u00e9es, \u00e0 ses fournisseurs de services ou \u00e0 ses agents, vous nous autorisez \u00e0 recueillir, \u00e0 utiliser et \u00e0 divulguer ces renseignements aux fins pr\u00e9vues dans notre Code de protection de la confidentialit\u00e9, que vous pouvez consulter au www.siemens.ca.</b></p>",
+      "name": "Education and Talent Work-Integrated Learning Program (5 Months term starting in May 2023)",
+      "type": "external",
+      "publication_date": "2023-01-16T23:32:31Z",
+      "short_name": "education-and-talent-workintegrated-learning-program-5-months-term-starting-in-may-2023-96609a",
+      "model_type": "jobs",
+      "id": 10484548,
+      "locations": [
+        {
+          "name": "Woodbridge, Canada"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Education"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Senior Level",
+          "short_name": "senior"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/siemens/education-and-talent-workintegrated-learning-program-5-months-term-starting-in-may-2023-96609a"
+      },
+      "company": {
+        "id": 11913,
+        "short_name": "siemens",
+        "name": "Siemens"
+      }
+    },
+    {
+      "contents": "<p>Implements defined overall production standards, and oversees and manages production operations, which may include area related maintenance, testing, processes technicality, engineering, etc. Make sure safety, quality, delivery and cost to meet team targets.<br><br>\u786e\u4fdd\u89c4\u5b9a\u7684\u751f\u4ea7\u6807\u51c6\u7684\u5b9e\u65bd, \u76d1\u7763\u7ba1\u7406\u4e0e\u751f\u4ea7\u76f8\u5173\u7684\u6d3b\u52a8, \u5305\u62ec\u7ef4\u4fee, \u6d4b\u8bd5, \u5de5\u827a, \u5de5\u7a0b\u8bbe\u8ba1\u7b49\u3002\u4fdd\u8bc1\u5b89\u5168, \u8d28\u91cf, \u53ca\u65f6\u53d1\u8d27\u7387\u548c\u6210\u672c\u6ee1\u8db3\u56e2\u961f\u76ee\u6807\u3002<br><br><ul><li>Implements defined superior policies and guidelines, and defines and ensures implementation of function specific processes, procedures, methods and/or tools. \u8d2f\u5f7b\u516c\u53f8\u65b9\u9488\u653f\u7b56, \u786e\u4fdd\u751f\u4ea7\u804c\u80fd\u7684\u5b9e\u65bd, \u5305\u62ec\u751f\u4ea7\u8fc7\u7a0b, \u7a0b\u5e8f, \u65b9\u6cd5\u548c/\u6216\u5de5\u5177\u3002</li><li>Allocates personnel and production resources according to production plan. \u6309\u7167\u751f\u4ea7\u8ba1\u5212\u5408\u7406\u5b89\u6392\u4eba\u5458\u548c\u4ea7\u80fd\u3002</li><li>Manages organization unit(s) assigned, and leads and/or coordinates dedicated management and staff. \u7ba1\u7406\u7ec4\u7ec7\u7ed3\u6784, \u9886\u5bfc\u534f\u8c03\u7ba1\u7406\u56e2\u961f\u548c\u5458\u5de5\u3002</li><li>Contributes to and implements productions plans. Make sure delivery on time. \u53c2\u4e0e\u5236\u5b9a\u5e76\u5b9e\u65bd\u751f\u4ea7\u8ba1\u5212,\u786e\u4fdd\u53ca\u65f6\u53d1\u8d27\u3002</li><li>Evaluates and contributes to implementation of maintenance programs. \u53c2\u4e0e\u5b9e\u65bd\u5e76\u8bc4\u4f30\u8bbe\u5907\u7ef4\u4fee\u8ba1\u5212\u3002</li><li>Executes and contributes to implementation of continuous improvements in production processes. \u5b9e\u65bd\u5e76\u79ef\u6781\u53c2\u4e0e\u751f\u4ea7\u8fc7\u7a0b\u7684\u6301\u7eed\u6539\u8fdb\u3002</li><li>Keeps budgets as planned and reduces wastes. Improve productivity. \u6309\u8ba1\u5212\u63a7\u5236\u9884\u7b97, \u51cf\u5c11\u6d6a\u8d39\u3002\u63d0\u5347\u751f\u4ea7\u6548\u7387\u3002</li><li>Continuously improve process quality level, reduce COPQ and customer complains. \u6301\u7eed\u63d0\u5347\u751f\u4ea7\u8fc7\u7a0b\u8d28\u91cf, \u964d\u4f4e\u8d28\u91cf\u4e0d\u826f\u8d39\u7528\u548c\u5ba2\u6237\u6295\u8bc9\u3002</li><li>Continuously improve work shop management, improve process flow and 5S. \u6301\u7eed\u63d0\u5347\u751f\u4ea7\u73b0\u573a\u7684\u7ba1\u7406, \u63d0\u5347\u751f\u4ea7\u8fc7\u7a0b\u6d41\u548c5S\u3002</li></ul><br><strong>Requirement:</strong><br><br><ul><li>Bachelor degree or above, major in electrical or mechanical automation related. \u5b66\u58eb\u5b66\u4f4d\u6216\u4ee5\u4e0a, \u4e3b\u4fee\u7535\u6c14\u6216\u673a\u68b0\u81ea\u52a8\u5316\u76f8\u5173\u4e13\u4e1a\u3002</li><li>Minimum 3 years' experience at manager position or 5 years' experience with a managerial role in MNC. \u81f3\u5c113\u5e74\u7ecf\u7406\u804c\u4f4d\u7ecf\u9a8c\u62165\u5e74\u8de8\u56fd\u516c\u53f8\u7ba1\u7406\u89d2\u8272\u7684\u5de5\u4f5c\u7ecf\u9a8c\u3002</li><li>Solid experience in Lean Manufacturing. \u624e\u5b9e\u7684\u7cbe\u76ca\u751f\u4ea7\u7ecf\u9a8c\u3002</li><li>Experienced in organizing and managing a modern industrial production. \u719f\u7ec3\u7ec4\u7ec7\u548c\u7ba1\u7406\u73b0\u4ee3\u5de5\u4e1a\u751f\u4ea7\u7684\u7ecf\u9a8c\u3002</li><li>Strong leadership and capacity of planning, organize and coach. \u5177\u6709\u8f83\u5f3a\u7684\u8ba1\u5212, \u7ec4\u7ec7, \u5bfc\u5411\u7684\u9886\u5bfc\u80fd\u529b\u3002</li><li>Fluent English communication skill. \u6d41\u5229\u7684\u82f1\u8bed\u4ea4\u6d41\u80fd\u529b\u3002</li></ul><br><b>Organization:</b> Siemens Mobility<br><br><b>Company:</b> Siemens Mobility Rail Equipment (Tianjin) Ltd.<br><br><b>Experience Level:</b> Experienced Professional<br><br><b>Full / Part time:</b> Full-time</p>",
+      "name": "Production Manager \u751f\u4ea7\u7ecf\u7406 (SMRE)",
+      "type": "external",
+      "publication_date": "2023-02-08T23:39:24Z",
+      "short_name": "production-manager-smre",
+      "model_type": "jobs",
+      "id": 9920068,
+      "locations": [
+        {
+          "name": "Tianjin, China"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Business Operations"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Senior Level",
+          "short_name": "senior"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/siemens/production-manager-smre"
+      },
+      "company": {
+        "id": 11913,
+        "short_name": "siemens",
+        "name": "Siemens"
+      }
+    },
+    {
+      "contents": "<p><strong>\u00dcber uns. </strong><br><br>Stellen Sie sich ein Unternehmen vor, das die dynamischeEnergie eines Start-ups mit dem R\u00fcckhalt von Siemens, einem globalen Konzern,verbindet. Ein Unternehmen, in dem Ideen, Leidenschaft und Erfindungsreichtumgesch\u00e4tzt werden - und - entscheidend sind, um die n\u00e4chste Generation vonHerausforderungen im Bereich intelligenter Geb\u00e4ude zu l\u00f6sen sowie Kunden dabeizu helfen, Netto-Carbon Zero-Ziele zu erreichen.<br><br>Enlighted ist ein menschenzentriertes Proptech-Unternehmen,das mit seiner branchenf\u00fchrenden Technologie positive Ver\u00e4nderungen \u00fcberalldort schafft, wo Raum, Menschen und Arbeit aufeinandertreffen. Wir bef\u00e4higenOrganisationen mit dieser Technologie, physische R\u00e4ume in regenerative Orte zuverwandeln, die einen positiven Einfluss auf Menschen, Portfolio und unserenPlaneten haben.<br><br><strong>Was Sie tun werden</strong><br><br>Zu Ihren Hauptaufgaben geh\u00f6ren die Generierung einer solidenPipeline neuer Opportunities, der Abschluss dieser Opportunities und die Erweiterungder Ihnen zugewiesenen Kunden in Zusammenarbeit mit dem Customer SuccessManager und den Projektmanagern.<br><br><strong>IhreAufgaben</strong><br><br><ul> <li>Aufbau und \u00dcberwachung der Pipeline f\u00fcr unseren gr\u00f6\u00dften     globalen Kunden mit seinem definierten Programm (SaaS &amp; IoT) sowie die     Entwicklung und Hinzuf\u00fcgung neuer strategischer Kunden</li> <li>Anbahnung, Sicherung und Durchf\u00fchrung zielorientierter     Meetings mit verschiedenen Stakeholdern (Global, Regional, Global Real     Estate Manager, IT, HR)</li> <li>Sie haben ein profundes Verst\u00e4ndnis der Stakeholder, an     Hand von gr\u00fcndliche Recherchen, um spezifische Interessen, Priorit\u00e4ten und     Probleme zu identifizieren</li> <li>Dar\u00fcber hinaus bearbeiten Sie mehrere Verkaufsans\u00e4tze     mit verschiedenen L\u00f6sungsangeboten auf der ganzen Welt </li> <li>Dabei er\u00f6ffnen Sie neue Verkaufsm\u00f6glichkeiten und     begleiten diese durch den Verkaufszyklus von der Anbahnung bis zum     Abschluss</li> <li>R\u00fcckmeldung der Kundenstimmen an Produktmarketing und     Produktmanagement</li> <li>Sorgf\u00e4ltige Verwaltung von Interessenten,     Pipeline-Fortschritt, Opportunity-Status und KPIs mithilfe von Tools wie     Salesforce</li> <li>Sie arbeiten mit mehreren Funktionen als auch Teams     zusammen (und \u00fcbernehmen die Leitung sowie Koordination), darunter     Projektmanagement, Customer Success, Marketing, Produkt, Vertriebstechnik,     Preisgestaltung, Angebotsmanagement und Lieferung, um Ihre Kunden effektiv     zu bedienen.</li></ul><br><strong>\u00dcber Sie</strong><br><br><ul> <li>Sie sind eine nat\u00fcrliche, beratende, bedarfsorientierte     und einf\u00fchlsame Verkaufsperson</li> <li>Sie haben eine Vorliebe daf\u00fcr, vor Kunden zu stehen     (pers\u00f6nlich oder virtuell) und f\u00fchlen sich dabei wohl</li> <li>Dar\u00fcber hinaus sind Sie wachstumsorientiert und m\u00f6chten     Teil eines schnell wachsenden Unternehmens sein</li> <li>Sie sind gleichzeitig Mentor, Teamkollege und     Businesspartner</li> <li>Sie sind ein starker interner Markenbotschafter f\u00fcr     sich und Ihre L\u00f6sung und arbeiten fokussiert ergebnisorientiert</li> <li>Zus\u00e4tzlich haben Sie Erfahrung in den Bereichen IoT,     SaaS-Vertrieb f\u00fcr Unternehmen und/oder komplexes Verkaufen</li> <li>Sie haben Erfahrung in der Arbeit an komplexen,     langwierigen Verkaufsabschl\u00fcssen im Konzernumfeld</li> <li>Sie beherrschen Deutsch auf Muttersprachen-Niveau und     sprechen verhandlungssicheres Englisch</li></ul><br><strong>Was wirbieten.</strong><br><br><ul> <li>2 bis 3 Tage pro Woche mobiles Arbeiten als globaler     Standard</li> <li>Ansprechendes     Verg\u00fctungspaket</li> <li>Weiterbildungsm\u00f6glichkeiten sowohl f\u00fcr Ihre berufliche     als auch pers\u00f6nliche Entwicklung </li> <li>30 Tage Urlaub sowie vielf\u00e4ltige, flexible     Arbeitszeitmodelle, die eine Auszeit f\u00fcr Sie und Ihre Familie erm\u00f6glichen</li> <li>Zugang     zu Aktienpl\u00e4nen f\u00fcr Mitarbeitende</li> <li>Und     viele weitere Benefits hier</li></ul><br>Die einzelnen Benefits sind jeweils zugeschnitten auf lokalegesetzliche Anforderungen, Vorgaben verschiedener Job-Profile und Standortesowie individuelle Pr\u00e4ferenzen.<br><br><strong>Wir wollen, dass Sie wollen:Bewerben Sie sich!</strong><br><br>Wir legen Wert aufChancengleichheit und freuen uns \u00fcber Bewerbungen von Menschenmit Behinderung.<br><br><strong>https://new.siemens.com/</strong> -wenn Sie mehr Informationen zu Jobs &amp; Karriere bei Siemens erhaltenm\u00f6chten.<br><br><strong>FAQ</strong> - wenn Sieeine Frage zum Thema Bewerbung bei Siemens haben.<br><br><b>Organisation:</b> Smart Infrastructure<br><br><b>Unternehmen:</b> Siemens AG<br><br><b>Erfahrungsniveau:</b> Experienced Professional<br><br><b>Voll-/Teilzeit:</b> Vollzeit</p>",
+      "name": "Account Executive (w/m/d) IoT/SaaS",
+      "type": "external",
+      "publication_date": "2023-01-20T02:38:24Z",
+      "short_name": "account-executive-wmd-iotsaas",
+      "model_type": "jobs",
+      "id": 10735798,
+      "locations": [
+        {
+          "name": "Munich, Germany"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Sales"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Mid Level",
+          "short_name": "mid"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/siemens/account-executive-wmd-iotsaas"
+      },
+      "company": {
+        "id": 11913,
+        "short_name": "siemens",
+        "name": "Siemens"
+      }
+    },
+    {
+      "contents": "<p><strong>\u5de5\u4f5c\u804c\u8d23\u662f\u4ec0\u4e48?</strong><br><br>\u2022 \u53c2\u4e0e\u65b0\u5458\u5de5\u7684\u4ecb\u7ecd/\u53d1\u5c55\u8ba1\u5212, \u4e86\u89e3\u7535\u6c14\u4ea7\u54c1\u53ca\u76f8\u5173\u5e94\u7528 <br><br>\u2022 \u6839\u636e\u9700\u6c42\u8fdb\u884c\u786c\u4ef6\u7535\u8def\u8bbe\u8ba1, \u5305\u62ec\u539f\u7406\u56fe\u8bbe\u8ba1\u3001\u5143\u5668\u4ef6\u9009\u578b\u3001BOM\u8868\u8f93\u51fa\u3001PCB Layout\u53ca\u8c03\u8bd5<br><br>\u2022 \u6839\u636e\u4ea7\u54c1\u6807\u51c6\u8fdb\u884c\u4ea7\u54c1\u8bbe\u8ba1\u9a8c\u8bc1\u3001\u6027\u80fd\u8bc4\u4f30, \u5e76\u89e3\u51b3\u5b9e\u9a8c\u4e2d\u5b58\u5728\u7684\u95ee\u9898<br><br>\u2022 \u5206\u6790\u73b0\u6709\u4ea7\u54c1\u7535\u8def\u7684\u6027\u80fd\u3001\u7a33\u5b9a\u6027, \u4f18\u5316\u6a21\u5757\u7684\u6027\u80fd<br><br>\u2022 \u5bf9\u4ea7\u54c1\u5f00\u53d1\u8fc7\u7a0b\u4e2d\u7684\u6837\u54c1\u5236\u4f5c\u3001\u73b0\u573a\u5e94\u7528\u4e0e\u8c03\u5ea6\u63d0\u4f9b\u6280\u672f\u652f\u6301<br><br>\u2022 \u8d1f\u8d23\u4ea7\u54c1\u6280\u672f\u8d44\u6599\u7f16\u5236, \u5b8c\u6210\u6280\u672f\u6587\u6863\u5b58\u6863<br><br>\u2022 \u53c2\u4e0e\u4e0d\u540c\u9879\u76ee\u7684\u6280\u672f\u8bc4\u5ba1 <br><br><strong>\u6211\u5982\u4f55\u624d\u80fd\u80dc\u4efb?</strong><br><br>\u2022 \u672c\u79d1\u53ca\u4ee5\u4e0a\u7684\u5b66\u5386 <br><br>\u2022 \u7535\u5b50\u5de5\u7a0b\u3001\u7535\u6c14\u5de5\u7a0b\u3001\u8ba1\u7b97\u673a\u79d1\u5b66\u3001\u4eba\u5de5\u667a\u80fd\u7b49\u76f8\u5173\u4e13\u4e1a <br><br>\u2022 \u5177\u5907\u7535\u6e90\u524d\u7ea7\u7535\u8def\u3001\u6ee4\u6ce2\u7535\u8def\u3001\u63a7\u5236\u7535\u8def\u7684\u8bbe\u8ba1\u7ecf\u9a8c <br><br>\u2022 \u719f\u7ec3\u638c\u63e1\u6570\u5b57\u7535\u8def, \u6570\u5b57\u96c6\u6210\u7535\u8def, \u6a21\u62df\u7535\u8def\u7684\u8bbe\u8ba1, \u4fe1\u53f7\u4e0e\u7cfb\u7edf<br><br>\u2022 \u719f\u7ec3\u4f7f\u7528\u6d4b\u8bd5\u5de5\u5177\u548c\u4eea\u5668, \u5982\u793a\u6ce2\u5668\u3001\u8d1f\u8f7d\u4eea\u3001\u4e07\u7528\u8868\u3001\u7a33\u538b\u7535\u6e90\u7b49; <br><br>\u2022 \u6709\u826f\u597d\u7684\u82f1\u8bed\u542c\u8bf4\u8bfb\u5199\u80fd\u529b <br><br>\u2022 \u5bf9\u5de5\u4f5c\u6709\u70ed\u60c5, \u6709\u826f\u597d\u7684\u81ea\u6211\u9a71\u52a8\u80fd\u529b <br><br>\u2022 \u6709\u826f\u597d\u7684\u5b66\u4e60\u80fd\u529b <br><br><strong>\u6211\u4eec\u63d0\u4f9b: </strong><br><br>\u2022 \u6709\u6311\u6218\u6027\u7684\u5de5\u4f5c <br><br>\u2022 \u6709\u7ade\u4e89\u529b\u7684\u804c\u4e1a\u53d1\u5c55\u5e73\u53f0 <br><br>\u2022 \u5b8c\u5584\u7684\u7cfb\u7edf\u57f9\u8bad <br><br>\u2022 \u8de8\u6587\u5316\u3001\u591a\u5143\u5316\u7684\u5de5\u4f5c\u73af\u5883<br><br><b>Organization:</b> Smart Infrastructure<br><br><b>Company:</b> Siemens Electrical Apparatus Ltd., Suzhou<br><br><b>Experience Level:</b> Experienced Professional<br><br><b>Full / Part time:</b> Full-time</p>",
+      "name": "EP RD \u7535\u5b50\u5f00\u53d1\u5de5\u7a0b\u5e08",
+      "type": "external",
+      "publication_date": "2023-03-01T23:48:57Z",
+      "short_name": "ep-rd-1478f0",
+      "model_type": "jobs",
+      "id": 9980950,
+      "locations": [
+        {
+          "name": "Mudu, China"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Computer and IT"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Mid Level",
+          "short_name": "mid"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/siemens/ep-rd-1478f0"
+      },
+      "company": {
+        "id": 11913,
+        "short_name": "siemens",
+        "name": "Siemens"
+      }
+    },
+    {
+      "contents": "<p><strong>Join our team! Recognized by Fortune as World's Most Admired Companies 2022</strong><br><br><strong>About the role</strong><br><br>Siemens Global Business Services is looking for a Project Management to join our Internal Project Services team which covers a diverse portfolio of projects including Mergers &amp; Acquisitions (M&amp;A), Finance, Digitalization, Tool Implementations, and Service Transformations in the US. You will exhibit the ability to manage any of the project types within the portfolio mentioned with a wide degree of professionalism, creativity, and latitude. The successful candidate should be an excellent communicator, comfortable managing multiple tasks, a team player, and have a problem-solving aptitude. Remote position with domestic travel from 10 to 35%.  <br><br><strong>Position Overview: </strong><br><br>Manage specific projects for our customers by effectively planning, budgeting, supervising, and documenting all aspects of the assigned projects. <br><br><strong>Responsibilities:</strong><br><br><ul><li>Assist in the definition of project scope and objectives, involving all relevant partners and ensuring technical feasibility</li><li>Develop a detailed project plan including work packages, milestones, and quality gates to supervise and track progress</li><li>Manage changes to the project scope, schedule, and costs using appropriate verification techniques</li><li>Build and maintain comprehensive project documentation and deliverables ensuring that they adhere to quality standards</li><li>Ensure resource availability and allocation</li><li>Coordinate internal resources and third parties/vendors for the detailed execution of projects</li><li>Ensure that all projects meet quality standards and adhere to all company methods, regulations, and guidelines.</li><li>Measure project performance using appropriate tools and techniques</li><li>Report and raise issues/risks to management as needed</li><li>Accomplish high customer satisfaction</li><li>Conducting post-project evaluation and identifying successful and unsuccessful project elements.</li><li>Identify additional business opportunities out of the ongoing projects and support of project attainment based on customer requirements and needs.</li><li>Establish and maintain relationships with the client, third parties/vendors and all partners </li></ul><br><strong>Education, Experience and Capabilities: </strong><br><br><ul><li>BS/BA in related discipline required. Advanced degree a plus. Will consider other education with equivalent experience.  </li><li>PMI PMP Certification preferred</li><li>5+ years working in the field of Project Management with experience implementing Finance, Mergers &amp; Acquisitions, Supply Chain Management, Digitalization, IT, or Factory projects</li><li>Strong understanding of formal project management methodologies (Agile / Waterfall).</li><li>Use and continually develop professional skills</li><li>Ability to communicate with all levels of the organization</li><li>Expertise in process improvement; Changes existing ways/approaches and generates ideas for new and practical solutions.</li><li>Advanced in the use of MS365 products (Teams, PowerPoint, Excel, Word, SharePoint) SmartSheets, and project scheduling tools</li><li>Entrepreneurial and strategic mindset</li><li>Siemens operational experience preferred</li><li>Project Travel as required; will range from 10% to 35% (domestic)</li></ul><br><strong>Why you'll love working at Siemens!</strong><br> * Competitive compensation (salary and bonus) based on qualifications <br> * Medical, dental, prescription and vision coverage, first day of employment<br> * Matching 401(k) (immediate employer match)<br> * Flexible paid time off plan, paid holidays, and floating holidays<br> * Career development opportunities<br> * Education and tuition reimbursement programs available<br> * Paid parental leave<br><br>Applicants must be legally authorized for employment in the United States without need for current or future employer-sponsored work authorization.<br>#LI-JT1<br><br><b>Organization:</b> Global Business Services<br><br><b>Company:</b> Siemens Corporation<br><br><b>Experience Level:</b> Mid-level Professional<br><br><b>Full / Part time:</b> Full-time<br><br><b>Equal Employment Opportunity Statement</b><br>Siemens is an Equal Opportunity and Affirmative Action Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to their race, color, creed, religion, national origin, citizenship status, ancestry, sex, age, physical or mental disability unrelated to ability, marital status, family responsibilities, pregnancy, genetic information, sexual orientation, gender expression, gender identity, transgender, sex stereotyping, order of protection status, protected veteran or military status, or an unfavorable discharge from military service, and other categories protected by federal, state or local law.<br><br><b>EEO is the Law</b><br>Applicants and employees are protected under Federal law from discrimination. To learn more, Click here.<br><br><b>Pay Transparency Non-Discrimination Provision</b><br>Siemens follows Executive Order 11246, including the Pay Transparency Nondiscrimination Provision. To learn more, Click here.<br><br><b>California Privacy Notice</b><br>California residents have the right to receive additional notices about their personal information. To learn more, click here.</p>",
+      "name": "Project Manager, Internal Project Services",
+      "type": "external",
+      "publication_date": "2023-03-18T23:42:00Z",
+      "short_name": "project-manager-internal-project-services-4fd1d9",
+      "model_type": "jobs",
+      "id": 10873166,
+      "locations": [
+        {
+          "name": "Columbia, SC"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Project Management"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Senior Level",
+          "short_name": "senior"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/siemens/project-manager-internal-project-services-4fd1d9"
+      },
+      "company": {
+        "id": 11913,
+        "short_name": "siemens",
+        "name": "Siemens"
+      }
+    },
+    {
+      "contents": "<p><strong>Wissen f\u00fcr die Welt von morgen.</strong><br><br>Wir entwickeln Netzwerke, die unsere St\u00e4dte schlauer mit Licht und W\u00e4rme versorgen und kennen uns in Sachen Automatisierung und Digitalisierung in der Prozess- und Fertigungsindustrie bestens aus. Daf\u00fcr und f\u00fcr viele weitere Zukunftsprojekte brauchen wir kluge K\u00f6pfe, die ihr K\u00f6nnen und ihre Kreativit\u00e4t aktiv einbringen. Menschen wie Sie! Helfen Sie uns dabei, die spannendsten Herausforderungen gemeinsam anzugehen und umzusetzen, worauf es ankommt. Was wir Ihnen bieten ist die Chance, wirklich etwas zu bewegen. Also worauf warten? Machen Sie mit uns den n\u00e4chsten Schritt in Ihrer Karriere.<br><br><strong>Ver\u00e4ndern Sie mit uns die Welt von morgen.</strong><br><br><ul><li>Sie f\u00fchren Wartungen, Serviceeins\u00e4tze und Entst\u00f6rungen aus und erkennen wiederkehrende Fehler sowie Fehlbedienungen</li><li>Sie \u00fcbernehmen die Dokumentation von Serviceeins\u00e4tzen</li><li>Sie steuern Subunternehmer f\u00fcr die elektrische und mechanische Wartung aus</li><li>Sie analysieren und passen vorhandene S7/TIA Programme an und f\u00fchren Funktionstests durch</li><li>Sie unterst\u00fctzen die Inbetriebnahme von Regelbedienger\u00e4ten in Hochregallagern als auch f\u00fcr die zugeh\u00f6rige F\u00f6rdertechnik</li><li>Sie sind in die Rufbereitschaft von Logistikanlagen eingebunden</li></ul><br><strong>Ihr Profil f\u00fcr \"Zukunft m\u00f6glich machen\".</strong><br><br><ul><li>Sie verf\u00fcgen \u00fcber eine erfolgreich abgeschlossene Technische Ausbildung, vorzugsweise im Bereich Automatisierungstechnik oder Mechatronik</li><li>Sie konnten bereits Erfahrung im Service mit direkter Schnittstelle zum Kunden und in Eins\u00e4tzen vor Ort sammeln</li><li>Sie besitzen Basiskenntnisse in der Programmierung von Siemens S7/TIA</li><li>Sie sind bereit an einer arbeitsmedizinischen Untersuchung G41 teilzunehmen</li><li>Bereitschaft zu Wochenendeins\u00e4tzen sowie gute Deutschkenntnisse f\u00fcr die Kommunikation mit Kunden vor Ort runden ihr Profil ab</li></ul><br><strong>Was wir bieten.</strong><br><br><ul><li>2 bis 3 Tage pro Woche mobiles Arbeiten als zuk\u00fcnftiger, globaler Standard</li><li>Ansprechendes Verg\u00fctungspaket</li><li>30 Tage Urlaub sowie vielf\u00e4ltige, flexible Arbeitszeitmodelle, die eine Auszeit f\u00fcr Sie und Ihre Familie erm\u00f6glichen</li><li>Zugang zu Aktienpl\u00e4nen f\u00fcr Mitarbeitende</li><li>Und viele weitere Benefits hier</li></ul><br>Die einzelnen Benefits sind jeweils zugeschnitten auf lokale gesetzliche Anforderungen, Vorgaben verschiedener Job-Profile und Standorte sowie individuelle Pr\u00e4ferenzen.<br><br><strong>Wir wollen, dass Sie wollen: Bewerben Sie sich!</strong><br><br>Wir legen Wert auf Chancengleichheit und freuen uns \u00fcber Bewerbungen von Menschen mit Behinderung.<br><br><strong>https://new.siemens.com/</strong> - wenn Sie mehr Informationen zu Jobs &amp; Karriere bei Siemens erhalten m\u00f6chten.<br><br><strong>FAQ</strong> - wenn Sie eine Frage zum Thema Bewerbung bei Siemens haben.<br><br><b>Organization:</b> Digital Industries<br><br><b>Company:</b> Siemens AG<br><br><b>Experience Level:</b> Early Professional<br><br><b>Full / Part time:</b> Full-time</p>",
+      "name": "Erster Servicetechniker (m/w/d) Regalbedienger\u00e4te f\u00fcr Hochregallager",
+      "type": "external",
+      "publication_date": "2023-03-15T23:50:16Z",
+      "short_name": "erster-servicetechniker-mwd-regalbediengerate-fur-hochregallager-e87d9b",
+      "model_type": "jobs",
+      "id": 10753622,
+      "locations": [
+        {
+          "name": "Stuttgart, Germany"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Computer and IT"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Mid Level",
+          "short_name": "mid"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/siemens/erster-servicetechniker-mwd-regalbediengerate-fur-hochregallager-e87d9b"
+      },
+      "company": {
+        "id": 11913,
+        "short_name": "siemens",
+        "name": "Siemens"
+      }
+    },
+    {
+      "contents": "<p>At our Siemens Advanta R&amp;D Center we are focused on a product development including software development, hardware development, mechanical design and testing for the next generation concept of Industry 4.0.<br><br>We would like to invite you to cooperate on the development of industrial automation products within established, stable, and successful SIMATIC ET 200 remote I/O family. Within this project we started development of new generation of Linux based devices with cloud connectivity.<br><br>Your responsibility will be to integrate and test the Linux gateway device within the industrial network infrastructure with connectivity to cloud. Test automation will include design of test scenarios based on product specifications and their implementation, writing Python scripts for test automation and integration of test scenarios into CI/CD pipeline.<br><br><strong>Your tasks will be:</strong><br><br><ul><li>Participate in definition of test automation architecture</li><li>Design of test automation scripts for embedded Linux device (Python, bash, ...)</li><li>Programming of industrial automation systems from Siemens (TIA Portal)</li><li>Integration of tests into CI/CD pipeline</li><li>Analysis of test results, bug hunting and bug reporting</li><li>Cooperation with other colleagues from different areas of development - hardware, test, project management, and production within international environment</li><li>Creating of test documentation</li><li>Working with QA to meet the quality requirements needed for the products.</li><li>Driving topics on your own and organize yourself, distribute your knowledge</li></ul><br><strong>What we will appreciate from you:</strong><br><br><ul><li>Good knowledge of Python</li><li>Knowledge of scripting in Linux environment is a plus</li><li>Experience with CI/CD pipelines, git, Docker etc.</li><li>Ability to communicate in English</li><li>Team player</li></ul><br><strong>You can look forward to: </strong><br><br><ul><li>Signing bonus up to 100 000 CZK</li><li>Up to 33 days of holiday (standard 5 weeks + up to 8 days from benefit system) </li><li>Flexible working hours and home-office </li><li>An individual benefit budget of at least CZK 24,000 that you can turn into a combination of up to 8 extra days off, cafeteria points or pension and / or life insurance contributions </li><li>Relocation bonus for the costs of moving to the place of work (CZK 100,000 if you move to the Czech Republic from abroad, CZK 50,000 if you move to Prague within the Czech Republic) </li><li>Contribution to meals in the form of e- vouchers </li><li>Contribution to Multi-sport card </li><li>Opportunity become the shareholder of Siemens AG and get stocks for free</li></ul><br><b>Organization:</b> Advanta<br><br><b>Company:</b> Siemens, s.r.o.<br><br><b>Experience Level:</b> Mid-level Professional<br><br><b>Full / Part time:</b> Full-time</p>",
+      "name": "Verification and validation engineer for embedded device",
+      "type": "external",
+      "publication_date": "2023-01-25T23:38:29Z",
+      "short_name": "verification-and-validation-engineer-for-embedded-device",
+      "model_type": "jobs",
+      "id": 10319693,
+      "locations": [
+        {
+          "name": "Brno, Czech Republic"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Software Engineering"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Mid Level",
+          "short_name": "mid"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/siemens/verification-and-validation-engineer-for-embedded-device"
+      },
+      "company": {
+        "id": 11913,
+        "short_name": "siemens",
+        "name": "Siemens"
+      }
+    },
+    {
+      "contents": "<p><strong>VAGATEMPOR\u00c1RIA - CONTRATO VIA EMPRESA WCA</strong><br><br>Voc\u00eaquer desempenhar um papel essencial na constru\u00e7\u00e3o de um futuro melhor,trabalhando em projetos que possuem impacto na sociedade e no meio ambiente?<br><br>Est\u00e1interessado(a) em buscar por solu\u00e7\u00f5es revolucion\u00e1rias que maximizem a cria\u00e7\u00e3ode valor?<br><br>Ent\u00e3ojunte-se \u00e0 nossa equipe e venha construir o futuro na <strong>Siemens</strong>!<br><br>Falar em <strong>Siemens</strong> no Brasil \u00e9 falar em fazer o que importa para asociedade<br><br>Commais de 100 anos de atua\u00e7\u00e3o no pa\u00eds, a empresa transforma sua excel\u00eancia emeletrifica\u00e7\u00e3o, automa\u00e7\u00e3o e digitaliza\u00e7\u00e3o em solu\u00e7\u00f5es para romper fronteiras elevar a engenhosidade a todos os brasileiros<br><br>Querfazer parte desse time?<br><br>Vejanossa oportunidade de <strong>Especialista Trabalhista e Rela\u00e7\u00f5es Sindicais </strong>parao time da Siemens, compartilha ou se inscreva<br><br><strong>Voc\u00easer\u00e1 respons\u00e1vel por:</strong><br><br><ul><li>Consultoria dentro da \u00e1rea Jur\u00eddico Trabalhista atuando com consultas,orienta\u00e7\u00f5es internas as \u00e1reas de neg\u00f3cio, elabora\u00e7\u00e3o de termos, recibos e aditivos.</li><li>Elabora\u00e7\u00e3o do calend\u00e1rio jur\u00eddico de 2024;</li><li>Revis\u00e3o de comunicados, contratos, cl\u00e1usulas trabalhistas, entreoutros. </li><li>Realizar a intermedia\u00e7\u00e3o entre a \u00e1rea e o escrit\u00f3rio jur\u00eddico. </li><li>Respons\u00e1vel por processos de Compliance, atuar com den\u00fancias atrav\u00e9sdo canal Tell Us relacionadas a Recursos Humanos atuando com a an\u00e1lise de informa\u00e7\u00f5es,defini\u00e7\u00e3o de estrat\u00e9gia, realiza\u00e7\u00e3o de entrevistas, an\u00e1lise de documentos, elabora\u00e7\u00e3ode relat\u00f3rios e apresenta\u00e7\u00e3o dos resultados avalia\u00e7\u00e3o as HRBPs e Gest\u00e3ocompetente</li><li>Respons\u00e1vel pelo relacionamento com sindicatos, atuando com acompanhamentodas negocia\u00e7\u00f5es  de Conven\u00e7\u00e3o Coletivas</li><li>Atualiza\u00e7\u00e3o de relat\u00f3rios gerenciais (BIs); </li><li>Inclus\u00e3o de informa\u00e7\u00f5es nos sistemas de gest\u00e3o de pessoas, elabora\u00e7\u00e3ode comunicados e atualiza\u00e7\u00f5es; </li><li>Elabora\u00e7\u00e3o e negocia\u00e7\u00e3o de acordos; </li><li>Intermedia\u00e7\u00e3o e relacionamento entre empresa e sindicato. </li><li>Consultoria de terceiros atuando com an\u00e1lise de risco decontrata\u00e7\u00e3o de terceiro;</li><li>Acompanhar evolu\u00e7\u00e3o da quantidade e perfis de contrata\u00e7\u00e3o; </li><li>Parceria de neg\u00f3cio com l\u00edderes para an\u00e1lise de riscos;</li><li>Estudo de cen\u00e1rio e propor solu\u00e7\u00f5es de contrata\u00e7\u00f5es;</li></ul><br><strong>Oque precisamos de voc\u00ea:</strong><br><br><ul><li>Forma\u00e7\u00e3o em Direito;</li><li>OAB ativo</li><li>Dom\u00ednio da legisla\u00e7\u00e3o trabalhista, principalmente com foco em ind\u00fastria.</li><li>Possuir Ingl\u00eas intermedi\u00e1rio/Avan\u00e7ado;</li></ul><br>Sevoc\u00ea se identifica com o que estamos procurando, venha se aplicar!<br><br>Equipesdiversificadas s\u00e3o equipes melhores! Se todos pensarmos da mesma forma, ainova\u00e7\u00e3o dificilmente acontece. Por isso, buscamos talentos de diferentesorigens, g\u00eaneros, idades, ra\u00e7as, orienta\u00e7\u00e3o sexual e pessoas com defici\u00eancia.Na Siemens, as oportunidades s\u00e3o para todos.<br><br>Venhaconosco construir o futuro! Fa\u00e7a parte do nosso time!<br><br><b>Organization:</b> People &amp; Organization<br><br><b>Company:</b> Siemens Infraestrutura e Industria Ltda.<br><br><b>Experience Level:</b> Experienced Professional<br><br><b>Full / Part time:</b> Full-time</p>",
+      "name": "Especialista Trabalhista e Rela\u00e7\u00f5es Sindicais - Tempor\u00e1ria",
+      "type": "external",
+      "publication_date": "2023-03-15T23:50:16Z",
+      "short_name": "especialista-trabalhista-e-relacoes-sindicais-temporaria",
+      "model_type": "jobs",
+      "id": 11034533,
+      "locations": [
+        {
+          "name": "S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Business Operations"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Mid Level",
+          "short_name": "mid"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/siemens/especialista-trabalhista-e-relacoes-sindicais-temporaria"
+      },
+      "company": {
+        "id": 11913,
+        "short_name": "siemens",
+        "name": "Siemens"
+      }
+    },
+    {
+      "contents": "<p><strong>Explore our Digital World</strong><br><br>Do you want to create technologies that transform the everyday for billions of people? Our digital careers offer the opportunity to shape the next era of growth and innovation, challenging ourselves to build a better future. By creating ground breaking technologies that transform our world, we need the most innovative and diverse Digital Minds to develop tomorrow's reality. Picture yourself in the Digital World of Siemens here: www.siemens.com/careers/digitalminds<br><br><strong>Why you'll love working for Siemens!</strong><br><br><ul><li>Freedom and a healthy work- life balance- Embrace our flexible work environment with flex hours, telecommuting and digital workspaces.</li><li>Solve the world's most significant problems - Be part of exciting and innovative projects.</li><li>Engaging, challenging, and fast evolving, cutting edge technological environment.</li><li>Opportunities to advance your career and mentorship programs on a local and global scale.</li><li>Competitive total rewards package.</li><li>Profit sharing available.</li><li>Rewarding vacation entitlement with the opportunity to buy and sell your vacation depending on your lifestyle.</li><li>Contribute to our social responsibility initiatives focused on access to education, access to technology and sustaining communities and make a positive impact on the community.</li><li>Participate in our celebrations, social events and offsite business events.</li><li>Opportunities to contribute your innovative ideas and get paid for them!</li><li>Employee perks and discounts.</li><li>Diversity and inclusivity focused.</li></ul><br>Siemens is proud to be an eight-time award winner of Canada's Top 100 Employers, Canada's Greenest Employers 2022, Canada's Top Employers for Young People 2023 and Greater Toronto's Top Employers 2022.<br><br><strong>About Charging-As-A-Service (CaaS)</strong><br><br>CAAS is redefining the EV charging market for private and public fleets, including autonomous driving fleets, transit bus agencies, and municipal and private fleets. We are building the next level of charging as a service, taking complete ownership and control of the charging infrastructure, the scheduling of the vehicles, the cloud platform, and the utility meter - in order to provide the highest availability and resilience in the market. In this way, we will accelerate the adoption of electric-powered fleets by optimizing the delivery of power and making refueling seamless and efficient.<br><br>In a high-powered application like fast vehicle charging, the difference between controlled, optimally balanced vs unrestrained EV charging could be 3x in cost from your local utility. Even more importantly, EV fleets, in particular when part of critical and close to real-time business processes (for example in autonomous fleets) need to be scheduled for charging in specific time intervals. By taking control of the utility meter, and optimizing EV charge rate and vehicle process flow, CAAS provides the lowest cost of electric fueling possible in each depot location or in-route stops.<br><br>Our approach is to offer charging as a service that is unique in the industry. We offer our customers a per mile driven or per kWh usage rate. CAAS provides the bulk of the upfront capital expenditures associated with the charging platform.<br><br><strong>What will you do?</strong><br><br>In the role of Team Lead, we are looking for candidates who want to be a part of something innovative and industry-leading in the EV mobility space by leading, architecting, designing, and implementing some of the key microservices that can scale, perform and keep up with the ever-increasing transaction volume. This individual will work closely with product management and the engineering teams in executing the product vision to reality.<br><br><ul><li>Be a technical leader, mentor, collaborator, and champion of best practices</li><li>Architect, design, develop, deploy, and operate microservices that process millions of IoT transactions.</li><li>Be a valued member of an autonomous, cross-functional agile team</li><li>Participate in code reviews, retrospectives, and lunch-and-learns</li><li>Mentor junior developers to help them improve their coding practices</li><li>Lead development of projects</li><li>Work with clients on identifying and confirming the scope of projects</li><li>Investigate and resolve system functionality and performance issues</li><li>Lead front-end and backend engineers.</li></ul><br><strong>What will you need to succeed?</strong><br><br><ul><li>An experienced technical leader with a degree in Computer Science or equivalent</li><li>Minimum 2 years of Team Lead experience</li><li>Minimum 8 years of coding experience</li><li>Experience with Node.JS, Golang, or Java</li><li>Experience with persistence storage: Postgres or MySQL. MongoDB, Elasticsearch or equivalent.</li><li>An aptitude for learning new languages</li><li>Expert in domain-driven design and distributed systems including caching and queuing technologies.</li><li>Take pride in your craft and understand what it means to ship high-quality code</li><li>Amazon Web Services (AWS) experience</li></ul><br><strong>Preferred Qualifications:</strong><br><br><ul><li>EV Charging domain experience.</li></ul><br><strong>About us.</strong><br><br><strong>We share our ideas and champion the people behind them.</strong><br><br>For over 110 years, Siemens Canada has stood for engineering excellence, innovation, quality and reliability. Siemens Canada is a technology leader providing comprehensive solutions for Smart Infrastructure and Digital Industries. We make real what matters by setting the benchmark in the way we electrify, automate and digitalize the world around us. Ingenuity drives us and what we create together in yours. <br><br>Making a difference together we raised $$385,000 towards charitable contributions, support over 38 non-profit organizations and planted 660 trees in our local communities. Siemens Canada has 2,500 employees from coast-to-coast and 24 office and production facilities across Canada. Join our team of approximately 293,000 talented professionals in more than 190 countries/regions and help us tackle the most exciting challenges to build a successful future together. So, what are you waiting for? Take your next career step with us.<br><br>To learn more about Siemens Canada, visit our website at www.siemens.ca<br><br>While we appreciate all applications we receive, we advise that only candidates under consideration will be contacted.<br><br><b>Organization:</b> Smart Infrastructure<br><br><b>Company:</b> Siemens Canada Limited<br><br><b>Experience Level:</b> Experienced Professional<br><br><b>Full / Part time:</b> Full-time<br><br>Siemens is committed to creating a diverse environment and is proud to be an equal opportunity employer. Upon request, Siemens Canada will provide reasonable accommodation for disabilities to support participation of candidates in all aspects of the recruitment process. All qualified applicants will receive consideration for employment.<br><br><b>By submitting personal information to Siemens Canada Limited or its affiliates, service providers and agents, you consent to our collection, use and disclosure of such information for the purposes described in our Privacy Code available at www.siemens.ca.</b><br><br>Siemens s'engage \u00e0 cr\u00e9er un environnement diversifi\u00e9 et est fi\u00e8re d'\u00eatre un employeur souscrivant au principe de l'\u00e9galit\u00e9 d'acc\u00e8s \u00e0 l'emploi. Sur demande, Siemens Canada prendra des mesures d'accommodement raisonnables pour les personnes handicap\u00e9es, dans le but de soutenir la participation des candidats dans tous les aspects du processus de recrutement. Tous les candidats qualifi\u00e9s seront pris en consid\u00e9ration pour ce poste.<br><br><b>En transmettant des renseignements personnels \u00e0 Siemens Canada limit\u00e9e ou \u00e0 ses soci\u00e9t\u00e9s affili\u00e9es, \u00e0 ses fournisseurs de services ou \u00e0 ses agents, vous nous autorisez \u00e0 recueillir, \u00e0 utiliser et \u00e0 divulguer ces renseignements aux fins pr\u00e9vues dans notre Code de protection de la confidentialit\u00e9, que vous pouvez consulter au www.siemens.ca.</b></p>",
+      "name": "Software Development Team Lead",
+      "type": "external",
+      "publication_date": "2023-03-01T23:50:33Z",
+      "short_name": "software-development-team-lead-e4d76d",
+      "model_type": "jobs",
+      "id": 10953643,
+      "locations": [],
+      "categories": [
+        {
+          "name": "Software Engineering"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Senior Level",
+          "short_name": "senior"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/siemens/software-development-team-lead-e4d76d"
+      },
+      "company": {
+        "id": 11913,
+        "short_name": "siemens",
+        "name": "Siemens"
+      }
+    },
+    {
+      "contents": "<p>SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of\u00a0enabling human life on Mars.</p>\n\n<p><b>STARLINK ENGINEERING MANAGER, MATERIALS ENGINEERING (INSOURCE MANUFACTURING)</b></p>\n\n<p>SpaceX is developing a low latency, broadband internet system to meet the needs of consumers across the globe. Enabled by a constellation of low Earth orbit satellites, Starlink will provide fast, reliable internet to populations with little or no connectivity, including those in rural communities and places where existing services are too expensive or unreliable.</p>\n\n<p>Working directly in the materials engineering group, this position is responsible for managing a diverse team of engineers for the development and qualification of all equipment, tooling and manufacturing process technologies necessary to scale production to high volumes. The correct individual will bring an open mindset, challenge the status quo with regards to traditional vs. emerging technologies and utilize a logical and disciplined approach to evaluate and select the correct set of solutions. The candidate will drive alignment between design, material and process selection and will own seamless integration of these processes into the overall process flow.</p>\n\n<p><b>RESPONSIBILITIES:</b></p>\n\n<ul><li>Lead a team of engineers responsible for the development of technologies relating to stamping, plastic injection molding and high pressure die casting manufacturing processes for Starlink hardware</li><li>Act as a technical decision maker and advisor to the team on manufacturing techniques responsible for implementing turn-key processes to production that are capable of high volume throughput (2M+ per year)</li><li>Create collaborative business plans with design engineering, upstream production, and support teams and develop and maintain positive supplier/customer relationships</li><li>Identify, recruit, and develop individual contributor talent and leadership within the organization. Evaluate project scope according to team\u2019s skillset including labor and resourcing estimation</li><li>Manage strategy for CapX, staffing, production line tooling, inventory, training and build process and ensure all are updated according to the latest design configuration</li><li>Continually develop and manage engineering capacity, schedules, and project plans in order to support production manifest as well as a diverse and variable R&amp;D demand</li><li>Lead and refine the design for manufacturing process by collaborating with supply management, product design, industrial design, and manufacturing engineering groups on material selection, design feasibility and aesthetics of new plastic part &amp; tooling designs</li><li>Research and identify new materials, manufacturing technologies and finishing options</li><li>Inform estimations of prototype and production manufacturing costs - tooling, secondary assembly, secondary finishing and piece part</li><li>Publish and maintain detailed schedules for each development project segment</li></ul>\n\n<p><b>BASIC QUALIFICATIONS:</b></p>\n\n<ul><li>Bachelor\u2019s degree in an engineering or technical discipline</li><li>2+ years of experience in a leadership position</li><li>3+ years of industry product or process design/development experience within production or integration systems</li><li>Experience taking products from research and development into production</li></ul>\n\n<p><b>PREFERRED SKILLS AND EXPERIENCE:</b></p>\n\n<ul><li>Master\u2019s degree or PhD in an engineering discipline</li><li>5+ years of experience in a leadership position in a manufacturing environment</li><li>Experience transitioning products from design to manufacturing and scaling to high volume as part of a cross-functional team</li><li>Experience with manufacturing process like injection molding, CNC, die casting, stamping, assembly, and box build in a production setting and a good understanding of the costs and schedule and complexity associated with each process</li><li>Experience defining and assessing quality standards associated with common manufacturing processes including drawing specifications, limit samples, and incoming/outgoing quality control points with a proven track-record of shepherding products from tool release to mass production</li></ul>\n\n<p><b>ADDITIONAL REQUIREMENTS:</b></p>\n\n<ul><li>Willingness to travel to other SpaceX sites and/or vendors for significant/extended periods of time (in excess of 50% of the time) including international</li><li>Ability to lift up to 30 Ibs unassisted</li><li>Standing/walking for long periods of time</li><li>Willingness to work long hours and weekends as necessary to accommodate manufacturing and test campaigns</li></ul>\n\n<p><b>COMPENSATION AND BENEFITS: \u00a0 \u00a0</b><br>\u00a0 \u00a0\u00a0<br>Pay range: \u00a0 \u00a0<br>Materials Process Engineering/Manager: $150,000.00 - $190,000.00/per year \u00a0 \u00a0\u00a0 \u00a0\u00a0</p>\n\n<p>Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience.</p>\n\n<p>Base salary is just one part of your total rewards package at SpaceX. You may also be eligible for long-term incentives, in the form of company stock, stock options, or long-term cash awards, as well as potential discretionary bonuses and the ability to purchase additional stock at a discount through an Employee Stock Purchase Plan. You will also receive access to comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short &amp; long-term disability insurance, life insurance, paid parental leave, and various other discounts and perks. You may also accrue 3 weeks of paid vacation &amp; will be eligible for 10 or more paid holidays per year. Exempt employees are eligible for 5 days of sick leave per year.</p>\n\n<p><b>ITAR REQUIREMENTS:</b></p>\n\n<ul><li>To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR <a href=\"https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&amp;sys_id=24d528fddbfc930044f9ff621f961987\">here</a>. \u00a0</li></ul>\n\n<p>SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.</p>\n\n<p>Applicants wishing to view a copy of SpaceX\u2019s Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the application/interview process should notify the Human Resources Department at (310) 363-6000.</p>",
+      "name": "Starlink Engineering Manager, Materials Engineering (Insource Manufacturing)",
+      "type": "external",
+      "publication_date": "2023-02-27T19:27:48Z",
+      "short_name": "starlink-engineering-manager-materials-engineering-insource-manufacturing",
+      "model_type": "jobs",
+      "id": 10940861,
+      "locations": [
+        {
+          "name": "El Segundo, CA"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Software Engineering"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Senior Level",
+          "short_name": "senior"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/spacex/starlink-engineering-manager-materials-engineering-insource-manufacturing"
+      },
+      "company": {
+        "id": 15000190,
+        "short_name": "spacex",
+        "name": "SpaceX"
+      }
+    },
+    {
+      "contents": "<p><strong>Why Choose Us?</strong><br><br><strong>Join in Smart Infrastructure,be Zero Carbon Pioneer for a Better Tomorrow!</strong><br><br>Siemens SmartInfrastructure combines the real and digital worlds, by makingcities smarter, energy greener, we contribute to sustainability anddecarbonization. We build a better future for cities, societies, and industriesto change the lives of billions of people for the better.<br><br>We developnetworks that supply our cities with light and heat intelligently and we knowour way around automation and digitalization in the process and manufacturingindustries.<br><br>We are lookingfor smart thinkers and innovation drivers, clever minds that can tackle themost exciting challenges and make the impact in a unique mission to create abetter tomorrow for society. People like you, what are you waiting for? <br><br><strong>What will you do if join us?</strong><br><br>\u5feb\u901f\u4e86\u89e3\u897f\u95e8\u5b50\u6d88\u9632\u4e1a\u52a1\u53d1\u5c55\u53ca\u4ea7\u54c1\u89c4\u5212<br><br>\u638c\u63e1\u6d88\u9632\u5e02\u573a\u53ca\u884c\u4e1a\u7ec6\u5206\u60c5\u51b5<br><br>\u6df1\u5165\u5b66\u4e60\u5404\u6d88\u9632\u5782\u76f4\u884c\u4e1a\u7279\u70b9\u548c\u53d1\u5c55\u673a\u4f1a<br><br>\u6df1\u5165\u5b66\u4e60\u4e3b\u8981\u7ade\u4e89\u5bf9\u624b\u53d1\u5c55\u7b56\u7565\u548c\u8868\u73b0<br><br>\u4e3a\u897f\u95e8\u5b50\u6d88\u9632\u4ea7\u54c1\u6218\u7565\u7684\u5236\u5b9a\u63d0\u4f9b\u6709\u6548\u8f93\u5165<br><br>\u7ed3\u5408\u65e5\u5e38\u4ea7\u54c1\u7ba1\u7406\u90e8\u5de5\u4f5c\u5185\u5bb9, \u6574\u7406\u3001\u6c47\u62a5\u4ee5\u4e0a\u5e02\u573a\u4fe1\u606f, <br><br><strong>Who are we looking for?</strong><br><br>\u79ef\u6781\u4e3b\u52a8, \u6709\u5185\u9a71\u529b<br><br>\u6c9f\u901a\u3001\u7406\u89e3\u548c\u8868\u8fbe (\u5305\u62ecpresentation) \u80fd\u529b\u5f3a<br><br>\u5bf9\u5e02\u573a\u63a2\u77e5\u548c\u5ba2\u6237\u670d\u52a1\u7b49\u65b9\u9762\u6709\u53d1\u5c55\u5174\u8da3<br><br>\u80fd\u9002\u5e94\u51fa\u5dee<br><br>\u80fd\u9002\u5e94\u8f83\u5927\u5de5\u4f5c\u538b\u529b<br><br><strong>What else to know?</strong><br><br>(Nice to have, about Business reference cases, impactof work...)<br><br>\u662f\u5426\u5bf9\u6d88\u9632\u6216\u5b89\u5168\u884c\u4e1a\u6216\u4ea7\u4e1a\u6709\u4e00\u5b9a\u4e86\u89e3<br><br>\u662f\u5426\u5bf9 (\u6d88\u9632\u7cfb\u7edf) \u4fe1\u606f\u5316\u3001\u667a\u80fd\u5316\u6709\u4e00\u5b9a\u4e86\u89e3<br><br>\u662f\u5426\u5bf9\u5e02\u573a\u8425\u9500\u6709\u4e00\u5b9a\u4e86\u89e3<br><br><strong>What we offer. </strong><br><br>We offer acollaborative and caring environment with strong focus on life-long learning,result-based recognition, and competitive benefit options.  <br><br>We live up toa culture of team spirit, trust and mutual respect, a culture that celebratesdiversity and inclusion with various backgrounds, nationalities, expertise, andmindsets.<br><br>You areencouraged to shape your personal development. Siemens offers flexible ways ofworking and we care for each other's well-being. It is our priority to enableyou to stay resilient and relevant in a permanently changing world.<br><br><b>Organization:</b> Smart Infrastructure<br><br><b>Company:</b> Beijing Siemens Cerberus Electronics Ltd.<br><br><b>Experience Level:</b> Recent College Graduate<br><br><b>Full / Part time:</b> Full-time</p>",
+      "name": "\u6d88\u9632\u884c\u4e1a\u5e02\u573a\u8c03\u67e5\u5458",
+      "type": "external",
+      "publication_date": "2023-03-01T23:47:24Z",
+      "short_name": "-df2765",
+      "model_type": "jobs",
+      "id": 10952986,
+      "locations": [
+        {
+          "name": "Beijing, China"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Unknown"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Mid Level",
+          "short_name": "mid"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/siemens/-df2765"
+      },
+      "company": {
+        "id": 11913,
+        "short_name": "siemens",
+        "name": "Siemens"
+      }
+    },
+    {
+      "contents": "<p><strong>Delivery Manager (Locomotive Cab Equipment)</strong><br><br>Gurgaon | Siemens Mobility | Full-time<br> <strong>Together we make a difference!</strong> <br>SiemensMobility is an independent run company of Siemens AG. Its core businessincludes rail vehicles, rail automation and electrification solutions, turnkeysystems, intelligent road traffic technology and related services<br><br>InMobility, we help our customers meet the need for smart mobility solutions.We're making the lives of people who travel easier and more enjoyable whileconstantly developing new, intelligent mobility solutions!<br> <strong>Change the future with us</strong> <br>We are currently looking for a Delivery Manager (Locomotive CabEquipment) at our project office in Gurugram. Delivery Manager (Locomotive CabEquipment) will report to Sub Project Manager <br><br>The job responsibilities of the Delivery Manager (Locomotive CabEquipment) include (but not limited to)<br><br><ul> <li>Act as an interface     between engineering team and manufacturing team with special focus on     Driver desk, Master controller, Driver display, Event recorder,     speedometer, lighting assemblies, wipers, horns, rear wall cabinets,     windshields and other miscellaneous parts</li> <li>Assist in pre-engineering,     engineering, manufacturing, testing and installation phases</li> <li>Liaise with customer     during the complete project cycle from design to warranty completion</li> <li>Ensure cost, quality     and time targets are met in sourcing of above components </li> <li>Ensure timely availability     of above components for locomotive manufacturing</li> <li>Prepare monthly     forecast for manufacturing and monitor progress to meet desired targets</li> <li>Enable cross functional     teams for process &amp; product quality improvement</li> <li>Address warranty issues     related to above components and complaint resolution</li> <li>Assist project     management team in customer training and take part in imparting training</li> <li>Maintain documentation     related to above components up to date and ensure revision control</li> <li>Management of risks and     opportunities in assigned package and lessons learnt thereof</li> <li>Ascertain the technical     requirements of the contract (internal/external in matters of the own sub     project and interfaces)</li> <li>Execute requirement     engineering for the assigned package</li> <li>Identify any     non-conformities in good time, identify cause of the problems and resolve     in consultation with the project manager</li></ul><br><strong>Use your skills to move the worldforward</strong><br><br><ul> <li>Graduate in Electrical     &amp; Electronics Engineering </li> <li>Should have at least     3-5 years' experience in rolling stock domain</li> <li>Should be proficient in     English and Hindi</li> <li>Strong communication     and organizational skills</li> <li>Proficiency in using     Microsoft office suite and administrative applications </li></ul><br><strong>Make your mark in our excitingworld at Siemens </strong><br><br>This role is based inGurgaon. You will also get to visit other locations in India and beyond, so you'llneed to go where this journey takes you. In return, you'll get the chance towork with teams impacting entire cities, countries - and the shape of things tocome.<br><br>We'reSiemens. A collection of over 379,000 minds building the future, one day at a time in over 200countries. We're dedicated to equality, and we encourage applications thatreflect the diversity of the communities we work in. All employment decisionsat Siemens are based on qualifications, merit and business need. Bring yourcuriosity and inspiration and help us shape tomorrow.<br><br>Findout more about mobility at: https://new.siemens.com/global/en/products/mobility.html and aboutSiemens careers at: www.siemens.com/careers<br><br><b>Organization:</b> Siemens Mobility<br><br><b>Company:</b> Siemens Limited<br><br><b>Experience Level:</b> Experienced Professional<br><br><b>Full / Part time:</b> Full-time</p>",
+      "name": "Delivery Manager (Locomotive Cab Equipment)",
+      "type": "external",
+      "publication_date": "2023-03-04T23:40:05Z",
+      "short_name": "delivery-manager-locomotive-cab-equipment",
+      "model_type": "jobs",
+      "id": 10976675,
+      "locations": [
+        {
+          "name": "Gurgaon, India"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Project Management"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Senior Level",
+          "short_name": "senior"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/siemens/delivery-manager-locomotive-cab-equipment"
+      },
+      "company": {
+        "id": 11913,
+        "short_name": "siemens",
+        "name": "Siemens"
+      }
+    },
+    {
+      "contents": "<p><strong>Looking for challenging role? If you really want tomake a difference - make it with us</strong><br><br>Siemens Energy is focused on helpingcustomers navigate the world's most pressing energy problems. <br><br>As a world leader in developing andproducing the most advanced engineering technologies, we improve lives andfurther human achievements worldwide, while also protecting the climate - allthanks to our employees. <br><br>With us, you can do somethingsignificant that benefits society and human progress<br><br><strong>Your new role - challenging and future-oriented</strong><br><br><strong>Job Profile:</strong><br><br>\u2022  Knowledge of Piping Engineering codes and standards like: ASME B31.1, B31.3, ANSI, IBR, EJMA and associated codes for Power Plant piping design.<br><br>\u2022  Coordinate with Consultant/End Customer for technical query resolution &amp; CRS preparation. <br><br>\u2022  Project interface review, vendor document review, Civil &amp; Electrical interface and Civil input sharing.<br><br>\u2022  Preparation of 3D Model, 2D TG Hall Layout, Piping Layout, Isometrics and Support drawing suitable to process requirement.<br><br>\u2022  Able to calculate pipe size, thickness, material selection, pressure drop calculation and valve class selection. Have overview of various types of fittings, valves &amp; specialty items.<br><br>\u2022  Able to understand Pipe Stress analysis report for support selection and further preparation of detail 2D support drawing.<br><br>\u2022  Understanding of Civil and Structure arrangement, external piping layout, cable trays &amp; ducting arrangement for checking interface.<br><br>\u2022  Have good hands-on experience on 3D modelling software PDMS/E3D and stagewise interface review process.<br><br>\u2022  Time bound, target oriented working, and cost optimization approach.<br><br><strong>Desired Qualification &amp; Experience:</strong><br><br>\u2022  B.E./B.Tech/M.Tech. (Mechanical) with 4 to 8 year experience in Piping Engineering.<br><br>\u2022  Proficient in 2D AutoCad and Skilful in 3D modelling software PDMS/E3D<br><br>\u2022  Exposure of Power Plant Mechanical System Engineering is desirable.<br><br>\u2022  Knowledge of Stress Analysis using CAESAR II / Rohr2 shall be an added advantage.<br><br><b>Organization:</b> Siemens Energy<br><br><b>Company:</b> Siemens Limited<br><br><b>Experience Level:</b> Experienced Professional<br><br><b>Full / Part time:</b> Full-time</p>",
+      "name": "Piping Engineer",
+      "type": "external",
+      "publication_date": "2023-01-16T23:32:30Z",
+      "short_name": "piping-engineer-a96801",
+      "model_type": "jobs",
+      "id": 10719977,
+      "locations": [
+        {
+          "name": "Gurgaon, India"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Science and Engineering"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Mid Level",
+          "short_name": "mid"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/siemens/piping-engineer-a96801"
+      },
+      "company": {
+        "id": 11913,
+        "short_name": "siemens",
+        "name": "Siemens"
+      }
+    },
+    {
+      "contents": "<p>Who designs your future? You do. <br>Are you passionate about solving some of theworld's most pressing challenges? Are you interested in developing your careerpath within a global technology powerhouse which empowers employee creativityto change, challenge, and influence our business and customer relationships?This is the career for you!<br><br>Joinour team!  Recognized by Fortune as World's Most Admired Companies 2020<br> Our Culture: <br>At Siemens, we live and foster an ownershipculture, in which every employee takes personal responsibility for ourcompany's success. We trust and empower our leaders to act as owners, directtheir teams, and innovate to succeed. We communicate openly and honestly tolearn from our failures and celebrate our successes. We recognize individualand team achievements frequently. We invest in our team members, offering awide variety of internal and external development opportunities.<br> Position Highlights: <br>\u2022        No-cap commission structure allows you to grow your accounts as much as you want...the sky's thelimit!<br><br>\u2022        Extensive Siemens SmartInfrastructure Service and Product portfolios provideopportunities to expand your customer base.<br><br>\u2022        Fast ramp-up time with our structured sales development program that provides you with aplan for quickly learning about Siemens products, processes, and people. <br><br>\u2022        Excellent benefits including medical/dental/vision/life, 401K matchingprogram, medical and dependent daycare flexible spending accounts, flexibletime off, and vehicle reimbursement program.<br><br>\u2022        Work life blend and the flexibility to work from home when needed for a better balanceto life.<br> What you will do for Siemens Smart Infrastructure:  <br>Siemens Smart Infrastructure is currentlysearching for a dynamic sales professional for our Total Fire Alarm and LifeSafety Service (projects) Sales team. The primary responsibility of this roleis to promote Siemens strong market position for delivering smart buildingtechnology to help our customers create outstanding experiences for theircustomers. In this position, you will achieve booking and profit goals bydeveloping and implementing plans to grow, develop, and manage contractor,consultant, authority having jurisdiction, developer, and end-userrelationships; capitalize on sales opportunities within the territory; andeffectively execute sophisticated deals independently within our establishedguidelines.<br> Responsibilities:  <br>\u2022        Develop a comprehensiveunderstanding of the marketplace, competitor offerings, customers, and decisioninfluencers across the region, segments, and verticals within the region. Keepcurrent on fire and life safety market business and product trends.<br><br>\u2022        Develop a geographic and verticalmarket account management plan that focuses on strategic growth. Identify newbusiness opportunities to grow in new markets or adjacent segments and develop\"go to market\" strategies to drive business to the standard constructionchannel and the end user customer.<br><br>\u2022        Develop and maintain a qualifiedfunnel of opportunities. Achieve new order/booking and profit goals. Deliver onforecasted results consistently.<br><br>\u2022        Collaborate with operations andinternal teams to deliver excellent customer outcomes.<br><br>\u2022        Partner with other sales divisionteams to plan, target, and acquire new projects and accounts.<br><br>\u2022        Attend industry-specificnetworking events; actively participate in professional organizations such as NFPA,NFSA, ASHE, NBFAA, AFAA, AGC, ABC, NEMA, NECA, etc. to build a network ofcontacts and to represent Siemens in the market.<br><br>\u2022 <br><br>Work jointly with the multiplelevels of the customer's organization to understand and document their businessgoals and success metrics. <br><br>\u2022        Perform customer site surveys tosupport the development of multi-offering estimates and proposals across abroad fire and life safety portfolio.<br><br>\u2022        Develop value-based proposals,estimates, specifications, and presentations. Work with operations, finance,legal and other inside and outside resources to obtain the sale.<br><br>\u2022        Ensure a smoothsales-to-operations turnover and follow through on sold projects to ensuresatisfactory completion. Maintain relationships with customers to ensurehighest satisfaction levels and future business. <br><br>\u2022        Actively participate in salesdepartment meetings, workshops, and seminars to stay knowledgeable on currentmarket, business, and product trends. <br><br>\u2022        Travel overnight up to 10% fortraining and business development.<br><br>Qualifications: <br>\u2022        Two-year certificate from anaccredited technical school or bachelor's degree in engineering preferred; acombination of education and experience will also be considered<br><br>\u2022        3+ years of experience in sales,business development, or consulting within the commercial fire alarm,sprinkler, suppression, life safety, or similar commercialbuilding/construction industries; 5+ years preferred<br><br>\u2022        NICET Level II Fire Alarm Certificationpreferred or must complete certification testing within 2 years<br><br>\u2022        Working knowledge of common fireand life safety systems and equipment, including but not limited to fire alarmsystems, sprinkler systems, suppression, nurse call, area of rescue, smokecontrol, digital antenna systems, etc. <br><br>\u2022        Familiarity with building and firealarm codes and standards (IFC, IBC, NFPA, CMS, etc.)<br><br>\u2022        Experience managing tierconstruction and end-user accounts and performing fire alarm and/or sprinklerdesign services<br><br>\u2022        Financial expertise to estimateand sell technical solutions and service product lines effectively andindependently<br><br>\u2022        Account development and strategicsales skills<br><br>\u2022        Excellent verbal and writtencommunication skills in English<br><br>\u2022        Excellent organizational,presentation, and negotiation skills<br><br>\u2022        Proficiency with Microsoft Officesuite<br><br>\u2022        Proficiency with Salesforce CRMpreferred<br><br>\u2022        Must be 21 years of age andpossess a valid driver's license with limited violations <br><br>\u2022        Qualified applicants must belegally authorized for employment in the United States<br><br>Benefits:  <br>\u2022        Competitive salary based onqualifications<br><br>\u2022        Health, dental, and vision planswith options <br><br>\u2022        Matching 401(k)<br><br>\u2022        Competitive paid time off plan,holidays, and floating holidays<br><br>\u2022        Paid parental leave<br><br>\u2022        Company cell phone and laptop <br><br>\u2022        Extensive product training andprofessional career development <br><br>\u2022        Education and tuitionreimbursement programs available <br><br>Siemens is an Equal Opportunity andAffirmative Action Employer encouraging diversity in the workplace. Allqualified applicants will receive consideration for employment without regardto their race, creed, religion, ancestry, national origin, sex, sexualorientation, gender identity, age, marital status, family responsibilities,pregnancy, genetic information, domestic partner status, disability, weight,height or AIDS/HIV status, protected veteran or military status, othercategories protected by federal, state, or local law, and regardless of whetherthe qualified applicants are individuals with disabilities.<br><br>#LI-SW1<br><br>#RSS<br><br><b>Organization:</b> Smart Infrastructure<br><br><b>Company:</b> Siemens Industry, Inc.<br><br><b>Experience Level:</b> Experienced Professional<br><br><b>Full / Part time:</b> Full-time<br><br><b>Equal Employment Opportunity Statement</b><br>Siemens is an Equal Opportunity and Affirmative Action Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to their race, color, creed, religion, national origin, citizenship status, ancestry, sex, age, physical or mental disability unrelated to ability, marital status, family responsibilities, pregnancy, genetic information, sexual orientation, gender expression, gender identity, transgender, sex stereotyping, order of protection status, protected veteran or military status, or an unfavorable discharge from military service, and other categories protected by federal, state or local law.<br><br><b>EEO is the Law</b><br>Applicants and employees are protected under Federal law from discrimination. To learn more, Click here.<br><br><b>Pay Transparency Non-Discrimination Provision</b><br>Siemens follows Executive Order 11246, including the Pay Transparency Nondiscrimination Provision. To learn more, Click here.<br><br><b>California Privacy Notice</b><br>California residents have the right to receive additional notices about their personal information. To learn more, click here.</p>",
+      "name": "Sr. Sales Executive, Fire Service ~ Tallahassee",
+      "type": "external",
+      "publication_date": "2023-01-12T23:39:29Z",
+      "short_name": "sr-sales-executive-fire-service-tallahassee-5143ba",
+      "model_type": "jobs",
+      "id": 10703162,
+      "locations": [
+        {
+          "name": "Thomasville, GA"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Sales"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Senior Level",
+          "short_name": "senior"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/siemens/sr-sales-executive-fire-service-tallahassee-5143ba"
+      },
+      "company": {
+        "id": 11913,
+        "short_name": "siemens",
+        "name": "Siemens"
+      }
+    },
+    {
+      "contents": "<p>Sie bringen Menschen, Ideen und M\u00f6glichkeiten zusammen. Als tempor\u00e4re Teamleitung \u00fcberwinden Sie Hindernisse und Barrieren, haben alle Kosten und Termine im Griff und setzen Dinge in Bewegung. F\u00fcr neue M\u00f6glichkeiten und L\u00f6sungswege haben Sie ein ausgepr\u00e4gt gutes Gesp\u00fcr und kennen die Potenziale jedes Teammitglieds. Sie haben die F\u00e4higkeit, andere zu inspirieren und zu motivieren - vor allem aber k\u00f6nnen Sie gut kommunizieren, sowohl auf Projekt- als auch auf Vorstandsebene. Sie geben alles, um Anforderungen f\u00fcr Sicherheit, Gesundheit und Umwelt mehr als nur zu erf\u00fcllen. Wir unterst\u00fctzen Sie dabei in jeder Situation, \u00fcberall auf der Welt und bieten Ihnen die M\u00f6glichkeit auf eine besondere Karrierelaufbahn. Werden Sie Teil unseres weltweiten Netzwerks.<br><br><strong>Ver\u00e4ndern Sie mit uns die Welt von morgen.</strong><br><br>Wir haben als Generalunternehmen die F\u00f6rdertechnik in der Endmontage des VW CRAFTER Werks in Wrzesnia / Polen schl\u00fcsselfertig geplant und geliefert. Sehen Sie selbst:<br><br>https://www.youtube.com/watch?v=rkj-IYKoPyE<br><br><ul><li>F\u00fcr \u00e4hnliche Projekte sorgen Sie als Senior Projektleitung eigenverantwortlich daf\u00fcr, dass Gesamtanlagenprojekte bei unseren namenhaften Kunden in der Automobilindustrie weltweit geplant, projektiert und realisiert werden</li><li>Schon w\u00e4hrend der Angebotsphase begleiten Sie unsere Kunden mit Ihren Projektteams vor Ort und bekommen so ein Gesp\u00fcr f\u00fcr die Bed\u00fcrfnisse des Kunden</li><li>Vom Beschluss eines Investitionsvorhabens \u00fcber die Realisierungsplanung, die Montage und Inbetriebnahme bis hin zum Produktionshochlauf sind Sie ma\u00dfgeblich beteiligt und sorgen mit Ihrer Expertise f\u00fcr eine erfolgreiche Endabnahme der Anlage</li><li>Sie f\u00fchren Projektteams aus mehreren Teilprojektleitungen und Spezialisten und steuern die Arbeitsprozesse zielgerichtet und effizient</li><li>Des Weiteren \u00fcbernehmen planerische Aufgaben wie Prozessoptimierung, Methodenplanung und Kalkulation </li></ul><br><strong>Ihr Profil f\u00fcr \"Zukunft m\u00f6glich machen\".</strong><br><br><ul><li>Das Fundament Ihres Erfolges bildet ein erfolgreich abgeschlossenes Studium einer ingenieurwissenschaftlichen Fachrichtung, z.B. Maschinenbau, Elektrotechnik, Wirtschaftsingenieurwesen oder einer vergleichbaren Fachrichtung</li><li>Sie \u00fcberzeugen durch langj\u00e4hrige Berufserfahrung im Bereich Projektmanagement und verf\u00fcgen \u00fcber eine intensive Realisierungserfahrung im Anlagenbau f\u00fcr die Gro\u00dfserienfertigung in der Automobilindustrie</li><li>Dadurch verf\u00fcgen Sie neben umfassenden Fachkenntnissen in Bereichen wie Stahlbau, F\u00f6rder-, Montage-, Pr\u00fcf- und Automatisierungstechnik auch \u00fcber Erfahrung in der F\u00fchrung von Projektteams</li><li>Ihr gutes technisches Verst\u00e4ndnis im Bereich Mechanik, Automatisierungstechnik und \u00fcber Produktionsabl\u00e4ufe hilft Ihnen mit den Kunden auf Augenh\u00f6he zu kommunizieren</li><li>Ihre Offenheit erleichtert es eine gute Beziehung zu Kunden und Lieferanten aufzubauen und Sie k\u00f6nnen sich schnell auf anderen Kulturen und Mentalit\u00e4ten einstellen</li><li>Eine Zertifizierung nach PM@Siemens bringen Sie idealerweise mit</li></ul><br><strong>Wir wollen, dass Sie wollen: Bewerben Sie sich!</strong><br><br>www.siemens.de/karriere/faq  - wenn Sie eine Frage zum Thema Bewerbung bei Siemens haben.<br><br>https://new.siemens.com/ - wenn Sie mehr Informationen zu Jobs &amp; Karriere bei Siemens erhalten m\u00f6chten.<br><br>Wir legen Wert auf Chancengleichheit und freuen uns \u00fcber Bewerbungen von Menschen mit Behinderung.<br><br><b>Organisation:</b> Digital Industries<br><br><b>Unternehmen:</b> Siemens AG<br><br><b>Erfahrungsniveau:</b> Experienced Professional<br><br><b>Voll-/Teilzeit:</b> Beides</p>",
+      "name": "Senior Projektleiter (w/m/d) Gesamtanlagen f\u00fcr die Automobilindustrie",
+      "type": "external",
+      "publication_date": "2022-10-17T23:58:56Z",
+      "short_name": "senior-projektleiter-wmd-gesamtanlagen-fur-die-automobilindustrie-0eab34",
+      "model_type": "jobs",
+      "id": 6982642,
+      "locations": [
+        {
+          "name": "N\u00fcrnberg, Germany"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Unknown"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Senior Level",
+          "short_name": "senior"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/siemens/senior-projektleiter-wmd-gesamtanlagen-fur-die-automobilindustrie-0eab34"
+      },
+      "company": {
+        "id": 11913,
+        "short_name": "siemens",
+        "name": "Siemens"
+      }
+    },
+    {
+      "contents": "<p><strong>Solution Engineer</strong> <br>Smart infrastructure from Siemens makes the world a more connected and caring place - where resources are valued, where impact on the world is considered, where balanced energy is delivered optimally and efficiently. It provides the flexible infrastructure to allow society to evolve and respond to changing conditions. Technology and the resourcefulness of people come together to be at one with our environments and to care for our world. We do this from the macro to the micro level, from physical products, components and systems to connected, cloud-based digital offerings and services. Siemens offers a broad portfolio of grid control and automation; low- and medium-voltage power distribution, switching and control; and building automation, fire safety and security, HVAC control and energy solutions.<br> Join us! We Make Real What Matters. This Is Your Role. <ul><li>This position is for an individual contributor in project electrical engineering team.</li><li>The position demands an excellent technical knowledge in the field of electrical engineering and particularly in the domain of power engineering. Knowledge of various technical standards such as IS, IEC, CBIP and different Indian State Electricity Board rules is required. Good knowledge of different products and systems used in the project such as AIS/GIS Switchgear, Protection Relay, CRP, SCADA, etc., will be required. Working knowledge of ACAD is required. </li><li>In this position, the person has to perform project electrical engineering of Outdoor Switchyard, Indoor AIS/GIS Substation and E-House projects. The engineering is to be done during project execution and during project acquisition.</li><li>The engineering deliverables include Electrical/Protection Single Line Diagram, Switchyard/Substation Layout (Equipment, Cable Route, Earthing, Illumination, EKD, Lightning Protection, etc.), Cable Schedule, Bill of Material and Electrical Calculations (ACSR/IPS tube sizing, Earthing, Cable Sizing, Battery and Charger Sizing, Illumination, Lightning Protection, BPI cantilever, Short Circuit Force, Sag tension, Relay Setting, etc.). The engineering deliverables shall be of high quality, shall provide optimized solution and should be delivered within the required time frame, to the satisfaction of the customer.</li><li>The person has to review the drawings of the various products, systems and materials which are used in the project. Some examples of these are Switchyard Outdoor Equipment (Isolator, Circuit Breaker, Lightning arrestor, Current Transformer, Potential Transformer, Wave Trap, Transformer, NIFPS, Clamp/Connector, etc.), MV(AIS/GIS) and LV Switchgear, Battery, Battery Charger, CRP, SCADA, FOTE, HVAC, FDA, PA, etc. </li><li>Knowledge of coordination and interface between different systems and equipment, to deliver a complete engineered project, is required. Examples of interfaces are between electrical, structural and civil, between CRP and MV/LV Equipment, between transformer and NIFPS, etc. </li><li>Good communication skill and IT skill are required. Communication is to be done with internal partners such as factory, execution team, bid team, sales team, site team and external partners such as customer, consultant, product vendor, etc. The person has to interact with customer and consultant and obtain approval of the engineering documents of the project.</li><li>The person in this position has to work on both acquisition and execution projects simultaneously and has to cater to the demand of quality and time of different projects going on together. </li></ul> <strong>We don't need superheroes, just super minds!</strong> <ul><li>This role is based at Kalwa. The position requires B.E in Electrical with experience of 10 to 12 years in similar project electrical engineering function. </li></ul><br><strong>WE'VE GOT QUITE A LOT TO OFFER. HOW ABOUT YOU? </strong><br><br>We're Siemens. A collection of over 379,000 minds building the future, one day at a time in over 200 countries. We're dedicated to equality, and we welcome applications that reflect the diversity of the communities we work in across Gender, LGBTQ+, Abilities &amp; Ethnicity. All employment decisions at Siemens are based on qualifications, merit and business need. Bring your curiosity and imagination, and help us shape tomorrow<br><br>Find out more about Smart Infrastructure at: <strong>https://new.siemens.com/global/en/company/topic-areas/smart-infrastructure.html</strong> and about Siemens careers at: www.siemens.com/career<br><br><b>Organization:</b> Smart Infrastructure<br><br><b>Company:</b> Siemens Limited<br><br><b>Experience Level:</b> Experienced Professional<br><br><b>Full / Part time:</b> Full-time</p>",
+      "name": "Solution Engineer",
+      "type": "external",
+      "publication_date": "2023-03-15T23:50:16Z",
+      "short_name": "solution-engineer-b39efa",
+      "model_type": "jobs",
+      "id": 9813985,
+      "locations": [
+        {
+          "name": "Dombivli, India"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Software Engineering"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Mid Level",
+          "short_name": "mid"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/siemens/solution-engineer-b39efa"
+      },
+      "company": {
+        "id": 11913,
+        "short_name": "siemens",
+        "name": "Siemens"
+      }
+    },
+    {
+      "contents": "<p><strong>Art der Anstellung: </strong>Befristet<br> <br><strong>Deine Extraportion Praxis.</strong><br><br>Wie werden wir uns \u00fcbermorgen fortbewegen, miteinander kommunizieren, Energien nutzen? Lass uns gemeinsam an den Antworten arbeiten. Wir suchen daf\u00fcr kluge K\u00f6pfe, die Theorie in Praxis umwandeln und clever mitdenken. Kurz: Menschen, die ihre und unsere Fragen in neue Ausrufezeichen verwandeln wollen! Als Werkstudent (w/m/d) stehen dir bei uns viele T\u00fcren offen, um dich einzubringen: Ergreife die Chance und werde Teil unseres weltweiten Netzwerks, kn\u00fcpfe wichtige Kontakte und lege so den Grundstein f\u00fcr deine berufliche und pers\u00f6nliche Zukunft. Unsere Teams freuen sich auf dich.<br><br><strong>Wir setzen um, worauf es ankommt. Das ist dein Beitrag.</strong><br><br><ul><li>Du wirkst bei der Erstellung von Management Pr\u00e4sentationen und bei Projekten zu diversen Themen im Bereich F\u00fchrungskr\u00e4fte- und Aktienverg\u00fctung mit</li><li>Du arbeitest an der Erstellung des Verg\u00fctungsberichts der Siemens AG mit</li><li>Au\u00dferdem erstellst du ad-hoc Datenauswertungen und komplexere Datenanalysen</li><li>Zu guter Letzt unterst\u00fctzt du bei Benchmarking- und Best Practice-Analysen im Rahmen der Vorstands- und F\u00fchrungskr\u00e4fte-Verg\u00fctung</li></ul><br><strong>Wir suchen keine Superhelden. Sondern super helle K\u00f6pfe.</strong><br><br><ul><li>Du studierst derzeit in der Fachrichtung Betriebswirtschaftslehre, Wirtschaftsinformatik, Jura (Schwerpunkt Wirtschaftsrecht) oder einer vergleichbaren Fachrichtung</li><li>Bestenfalls konntest du bereits erste praktische Erfahrungen durch Praktika oder andere Werkstudentent\u00e4tigkeiten sammeln</li><li>Du interessierst dich f\u00fcr das Thema Compensation &amp; Benefits und hast bereits erste Blicke in einen Verg\u00fctungsbericht geworfen</li><li>Du verf\u00fcgst \u00fcber ein ausgepr\u00e4gtes analytisches Denkverm\u00f6gen und gutes Zahlenverst\u00e4ndnis</li><li>Im Umgang mit MS Office bist du fit, insbesondere mit Excel und PowerPoint</li><li>Erfahrungen im Bereich VBA sind von Vorteil, aber keine Voraussetzung</li><li>Klar, dass du sowohl in Deutsch als auch in Englisch flie\u00dfend kommunizieren kannst</li><li>Du hast Interesse Teil eines jungen und dynamischen Teams zu sein, kannst aber auch selbstst\u00e4ndig arbeiten</li></ul><br><strong>Dein kleiner Schritt in Richtung gro\u00dfartiger Siemens-Welt.</strong><br><br><strong>www.siemens.de</strong><br><br>wenn du vor deiner Bewerbung mehr \u00fcber Siemens erfahren m\u00f6chtest.<br><br>Du hast Fragen zur Bewerbung? <strong>Hier</strong> findest du Antworten auf h\u00e4ufig gestellte Fragen.<br><br>Wenn du dar\u00fcber hinaus noch Fragen hast, wende dich gerne an uns: www.siemens.de/fragenzurbewerbung<br><strong>www.siemens.de/karriere</strong><br>wenn du mehr Informationen zu Jobs &amp; Karriere bei Siemens erhalten m\u00f6chtest.<br><br>Wir legen Wert auf Chancengleichheit und freuen uns \u00fcber Bewerbungen von Menschen mit Behinderung.<br><br><b>Organization:</b> People &amp; Organization<br><br><b>Company:</b> Siemens AG<br><br><b>Experience Level:</b> Student (Not Yet Graduated)<br><br><b>Full / Part time:</b> Part-time</p>",
+      "name": "Werkstudent*in (w/m/d) im Bereich Equity Compensation",
+      "type": "external",
+      "publication_date": "2023-02-15T23:37:54Z",
+      "short_name": "werkstudentin-wmd-im-bereich-equity-compensation",
+      "model_type": "jobs",
+      "id": 10879426,
+      "locations": [
+        {
+          "name": "Munich, Germany"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Unknown"
+        }
+      ],
+      "levels": [
+        {
+          "name": "Mid Level",
+          "short_name": "mid"
+        }
+      ],
+      "tags": [],
+      "refs": {
+        "landing_page": "https://www.themuse.com/jobs/siemens/werkstudentin-wmd-im-bereich-equity-compensation"
+      },
+      "company": {
+        "id": 11913,
+        "short_name": "siemens",
+        "name": "Siemens"
+      }
+    }
+  ],
+  "aggregations": {}
+}
